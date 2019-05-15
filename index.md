@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  overlay_image: header/IMG_2431.jpg
+  overlay_image: header/header_2.jpg
 excerpt: "developing robot vision"
 feature_row_pub:
   - url: /pub/Robust-Visual-Odometry-via-Rigid-Motion-Segmentation-for-Dynamic-Environments/
