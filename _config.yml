@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Dohyun Jang"
 title_separator          : "-"
 name                     : "Dohyun Jang"
-description              : "developing robot vision"
+description              : "developing aerial systems and machine learning"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sangil Lee"
+  name             : "Dohyun Jang"
   avatar           : "Profile.jpg"
   bio              : "Ph.D. student in Mechanical & Aerospace Engineering in SNU."
   location         : "Seoul, South Korea"
-  email            : "sangil07@snu.ac.kr"
+  email            : "dohyun@snu.ac.kr"
   uri              : 
   bitbucket        :
   codepen          :
@@ -89,13 +89,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lee-sangil"
+  github           : "dohyunjang"
   google_plus      : # "117368088923254758410"
-  google_scholar   : "Sangil Lee"
+  google_scholar   : "Dohyun Jang"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "sangil-lee-a7428615b"
+  linkedin         : #"sangil-lee-a7428615b"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -105,9 +105,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "AeternusLSI"
+  youtube          : #"AeternusLSI"
   resume           : # "JulianStraub_Resume.pdf"
-  cv               : "sangillee_cv.pdf"
+  cv               : #"sangillee_cv.pdf"
 
 
 # Reading Files
