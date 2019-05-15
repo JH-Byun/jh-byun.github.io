@@ -1,8 +1,8 @@
 ---
-title: "Networked operation of a UAV using Gaussian process-based delay compensation and model predictive control"
+title: "Tracking Control of a Multirotor UAV in a Network Environment with Time-Varying Delay "
 header:
-  teaser: tumbnails/2019_icra.png
-conference: ICRA
+  teaser: tumbnails/2018_iccas.png
+conference: ICCAS
 links: 
  - paper: 
    name: "Paper"
@@ -10,7 +10,8 @@ links:
    name: "Bibtex"
 ---
 
-This study addresses an operation of unmanned aerial vehicles (UAVs) in a network environment where there is time-varying network delay. The network delay entails undesirable effects on the stability of the UAV control system due to delayed state feedback and outdated control input. Although several networked control algorithms have been proposed to deal with the network delay, most existing studies have assumed that the plant dynamics is known and simple, or the network delay is constant. These assumptions are improper to multirotor-type UAVs because of their nonlinearity and time-sensitive characteristics. To deal with these problems, we propose a networked control system using model predictive control (MPC) designed under the consideration of multirotor characteristics. We also apply a Gaussian process (GP) to learn an unknown nonlinear model, which increases the accuracy of path planning and state estimation. Flight experiments show that the proposed algorithm successfully compensates the network delay and Gaussian process learning improves the UAV’s path tracking performance.
+This paper presents a practical method to estimate and control the position of an unmanned aerial vehicle (UAV) considering a network environment with time-varying delay between a server and the UAV. The network delay entails undesirable effects to the stability of the UAV control system due to mismatch of trajectory and incorrect state observation. To deal with these problems, we propose the algorithm which consists of 1) path planner, 2) uplink delay compensator, 3) UAV controller, and 4) downlink delay compensator. We apply model predictive control (MPC) based pathplannertocalculatethereferencetrajectory. Uplinkdelaycompensatorrevisesthereferencetrajectorytocompensate forthenetworkdelaysothatthemismatchproblemissolved. TherevisedreferencetrajectoryisfedtotheUAVcontroller. It produces the predicted trajectory of the UAV and sends to the server. The downlink delay compensator estimates the UAV’s state using predicted trajectory so that the incorrect estimation problem is solved. Experimental results show improved tracking performance by the proposed delay compensation.
+
 
 
 {% include base_path %}
