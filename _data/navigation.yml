@@ -9,5 +9,5 @@ main:
   - title: "Photography"
     url: /_pages/photography/index.html
 
-  - title: "ICSL-DE Dataset"
-    url: /_pages/icsl-de-dataset/index.html
+#  - title: "ICSL-DE Dataset"
+#    url: /_pages/icsl-de-dataset/index.html
