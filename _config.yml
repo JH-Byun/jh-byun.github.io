@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Sangil Lee"
+title                    : "Dohyun Jang"
 title_separator          : "-"
-name                     : "Sangil Lee"
+name                     : "Dohyun Jang"
 description              : "developing robot vision"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
