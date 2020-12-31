@@ -244,6 +244,17 @@ defaults:
       related: true
   - 
     scope:
+      path: "study"
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  - 
+    scope:
       path: "blog"
       type: "posts"
     values:
