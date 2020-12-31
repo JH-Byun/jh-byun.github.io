@@ -4,5 +4,3 @@ title:
 header:
   image: robots/
 ---
-
-template
