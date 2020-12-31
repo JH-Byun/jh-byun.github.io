@@ -4,12 +4,12 @@ author_profile: true
 
 gallery-jeju-1:
   - url: photography/ksas/ksas-1.jpg
-    image_path: photography/emirates_stadium/ksas-1.jpg
+    image_path: photography/ksas/ksas-1.jpg
     alt: "Unknown Jeju Beach"
 
 gallery-jeju-2:
   - url: photography/ksas/ksas-2.jpgles monuments
-    image_path: photography/emirates_stadium/ksas-2.jpg
+    image_path: photography/ksas/ksas-2.jpg
     alt: "Hanlla mountain"
     
 gallery-emirates-stadium:
