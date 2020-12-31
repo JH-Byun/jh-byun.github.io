@@ -231,34 +231,31 @@ compress_html:
 
 
 defaults:
-  - 
-    scope:
+  - scope:
       path: "pub"
-      type: "posts"
+      type: posts
     values:
-      layout: "single"
+      layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-  - 
-    scope:
+  - scope:
       path: "study"
-      type: "posts"
+      type: posts
     values:
-      layout: "single"
+      layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-  - 
-    scope:
+  - scope:
       path: "blog"
-      type: "posts"
+      type: posts
     values:
-      layout: "single"
+      layout: single
       author_profile: true
       read_time: true
       comments: true
