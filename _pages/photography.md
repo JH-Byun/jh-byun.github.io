@@ -8,7 +8,7 @@ gallery-jeju-1:
     alt: "Unknown Jeju Beach"
 
 gallery-jeju-2:
-  - url: photography/ksas/ksas-2.jpgles monuments
+  - url: photography/ksas/ksas-2.jpg
     image_path: photography/ksas/ksas-2.jpg
     alt: "Hanlla mountain"
     
