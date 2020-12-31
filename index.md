@@ -3,15 +3,15 @@ layout: single
 author_profile: true
 header:
   overlay_image: header/header_2.jpg
-excerpt: "developing aerial systems and machine learning"
+excerpt: "developing control and planning of aerial manipulation"
 ---
 
-In Spring 2017, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</a> in Seoul National University to pursue research in **Robotics**. I am currently working with <a href="http://yjh5455.wixsite.com/jaehyun/" target="_blank">Jaehyun Yoo</a>, <a href="http://sjlazza.com/" target="_blank">Seungjae Lee</a>, and Clark Youngdong Son.
+In Spring 2020, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</a> in Seoul National University to pursue research in **Robotics**. I am currently working with Dongjae Lee and Inkyu Jang.
 
 [comment]: <> (I am very grateful for the many friends, advisors and my family which support me on this journey.)
 [comment]: <> (### developing artificial 3D perception)
 
-My research interests in robotics are in **Networked UAV control** and **Machine learning**.
+My research interests in robotics are in **Aerial manipulation** and **Hybrid dynamical system**.
 
 {% include feature_row id="feature_row_pub" caption="Featured Publications" %}
 
