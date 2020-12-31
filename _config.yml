@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Jeonghyun Byun"
 title_separator          : "-"
 name                     : "Jeonghyun Byun"
-description              : "developing aerial systems and machine learning"
+description              : "developing control and planning of aerial manipulation"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dohyun Jang"
-  avatar           : "Profile.jpg"
-  bio              : "Ph.D. student in Mechanical & Aerospace Engineering in SNU."
+  name             : "Jeonghyun Byun"
+  avatar           : "학부 졸업사진.jpg"
+  bio              : "M.S. student in Aerospace Engineering in SNU."
   location         : "Seoul, South Korea"
-  email            : "dohyun@snu.ac.kr"
+  email            : "quswjdgus97@snu.ac.kr"
   uri              : 
   bitbucket        :
   codepen          :
@@ -89,13 +89,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dohyunjang"
+  github           : "JH-Byun"
   google_plus      : # "117368088923254758410"
-  google_scholar   : #"Dohyun Jang"
+  google_scholar   : #"Jeonghyun Byun"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : #"sangil-lee-a7428615b"
+  linkedin         : #"jeonghyun-byun-1536211a0"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -107,7 +107,7 @@ author:
   xing             :
   youtube          : #"AeternusLSI"
   resume           : # "JulianStraub_Resume.pdf"
-  cv               : "dohyunjang_CV.pdf"
+  cv               : 
 
 
 # Reading Files
