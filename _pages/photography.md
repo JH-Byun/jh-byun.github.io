@@ -49,9 +49,17 @@ gallery-jeju:
   - url: photography/Jeju/P8022596.JPG
     image_path: photography/Jeju/P8022596.JPG
     alt: "A shore of Jeju"
+gallery-emirates-stadium:
+  - url: photography/london_1.JPG
+    image_path: photography/london_1.JPG
+    alt: "Emirates Stadium: Arsenal v. Newcastle Utd."
 ---
 
 {% include base_path %}
+
+## Emirates Stadium, London, UK
+
+{% include gallery id="gallery-emirates-stadium" caption="" %}
 
 ## Changgyeonggung Palace, Seoul, Korea
 
