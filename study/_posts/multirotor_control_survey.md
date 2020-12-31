@@ -11,3 +11,4 @@ links:
 ---
 
 hi
+{% include base_path %}
