@@ -2,6 +2,16 @@
 layout: single
 author_profile: true
 
+gallery-jeju-1:
+  - url: photography/ksas/ksas-1.jpg
+    image_path: photography/emirates_stadium/ksas-1.jpg
+    alt: "Unknown Jeju Beach"
+
+gallery-jeju-2:
+  - url: photography/ksas/ksas-2.jpgles monuments
+    image_path: photography/emirates_stadium/ksas-2.jpg
+    alt: "Hanlla mountain"
+    
 gallery-emirates-stadium:
   - url: photography/emirates_stadium/london_1.jpg
     image_path: photography/emirates_stadium/london_1.jpg
@@ -24,6 +34,11 @@ gallery-paris-3:
 ---
 
 {% include base_path %}
+
+## KSAS, Jeju island, Korea Rep.
+
+{% include gallery id="gallery-jeju-1" caption="" %}
+{% include gallery id="gallery-jeju-2" caption="" %}
 
 ## Emirates Stadium, London, UK
 
