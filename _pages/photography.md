@@ -50,8 +50,8 @@ gallery-jeju:
     image_path: photography/Jeju/P8022596.JPG
     alt: "A shore of Jeju"
 gallery-emirates-stadium:
-  - url: photography/london_1.JPG
-    image_path: photography/london_1.JPG
+  - url: photography/london_1.jpg
+    image_path: photography/london_1.jpg
     alt: "Emirates Stadium: Arsenal v. Newcastle Utd."
 ---
 
