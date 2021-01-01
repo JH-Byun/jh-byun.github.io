@@ -1,40 +1,34 @@
 ---
 layout: single
-title: "Trajectory tracking control of multirotors from modelling to experiments: A survey "
+title: "Trajectory tracking control of multirotors"
 header:
   image: 
 ---
-
 <br>
-1. Dynamics of the multirotor
-<ul>
-  hi
-</ul>
-2. Various controllers
-<ul>
-  1. Linear control
-  <ul>
-    - PID: the simplest structure among all control designs
-  </ul>
-  <ul>
-    - LQR
-  </ul>
-  <ul>
-    - H<sub>&infin;</sub>
-  </ul>
-</ul>
-<ul>
-  2. Nonlinear control
-  <ul>
-    - Feedback linearization <br>
-    - Backstepping <br>
-    - Geometric control <br>
-    - Dynamic inversion <br>
-    - Backstepping on SE(3)
-  </ul>
-</ul>
+Reference paper: Lee, H., & Kim, H. J. (2017). Trajectory tracking control of multirotors from modelling to experiments: A survey. International Journal of Control, Automation and Systems, 15(1), 281-292. <br>
 <br>
-<br>
-Reference<br>
-[1] Lee, H., & Kim, H. J. (2017). Trajectory tracking control of multirotors from modelling to experiments: A survey. International Journal of Control, Automation and Systems, 15(1), 281-292.
+1. Classical PID
+- characteristics
+<ul>
+  - one of the most well-known control law <br>
+  - based on the transfer function between the control input and Euler angles <br>
+  - assuming that the multirotor is on the hovering state <br>
+  </ul>
+- advantages
+<ul>
+  - easy to implement
+  </ul>
+- disadvantages
+<ul>
+  - hard to track fast trajectories
+  - need some modifications for the aggressive manoeuver
+  </ul>
+      
+  + LQR controller
+    - characteristics
+      - 
+    - advantages
+      -
+    - disadvantages
+      - only offers an optimal solution when the multirotor is near hover state
 
