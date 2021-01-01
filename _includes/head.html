@@ -20,3 +20,7 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+{% if page.use_math %}
+  {% include mathjax_support.html %}
+{% endif %}
