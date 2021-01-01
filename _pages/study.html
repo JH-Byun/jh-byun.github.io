@@ -7,13 +7,5 @@ excerpt: "Study"
 ---
 
 {% for post in site.categories.study %}
-	{% include archive-single.html %}
+	{% include archive-study-single.html %}
 {% endfor %}
-
-{% for post in paginator.posts %}
-  {% if post.category == "study" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-{% include paginator.html %}
