@@ -1,16 +1,12 @@
 ---
-title: "On-line parameteter estimation of a hexacopter equipped with 2-DOF robotic arm against disturbance "
+title: "Trajectory tracking control of multirotors from modelling to experiments: A survey "
 header:
-  teaser: tumbnails/2020_iccas.PNG
+  teaser: tumbnails/multirotor_control_survey.PNG
 conference: ICCAS
-links: 
- - paper: 
-   name: "Paper"
- - bibtex: 
-   name: "Bibtex"
----
 
-In this paper, autonomous aerial transportation with an unknown payload is presented. The unknown parameters of an object are estimated by the estimator based on the dynamics of an aerial manipulator. Also, to cope with the external disturbance, estimation law is modified to compensate for the error between control input and actual generalized force. With the estimated mass and the location of COM(center of mass), an adaptive sliding mode controller is designed. Stability and convergence analysis of closed-loop system is carried out by the direct Lyapunov method and validated by simulation results yielded from the MATLAB environment.
+---
+test hi
+
 
 
 {% include base_path %}
