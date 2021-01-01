@@ -3,6 +3,7 @@ layout: single
 title: "Trajectory tracking control of multirotors"
 header:
   image: 
+use_math: true
 ---
 
 
