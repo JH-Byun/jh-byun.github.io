@@ -4,6 +4,10 @@ layout: default
 
 {% include base_path %}
 
+{% if page.use_math %}
+  {% include mathjax_support.html %}
+{% endif %}
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
