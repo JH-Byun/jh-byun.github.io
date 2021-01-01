@@ -18,7 +18,8 @@ Hybrid system: there are some $x$ for each $m$
 <br><br>
 Steps for showing hybrid system <br>
 1. To guarantee that a solution exists for all possible initial conditions <br>
-2. No mode overlapping (there are finitely many switches of the discrete states in finite time)
+2. No mode overlapping (there are finitely many switches of the discrete states in finite time) <br>
+3. (Assumption) All the equilibrium points are equivalent regardless of the operating modes. 
 
 ## General theorems
 
