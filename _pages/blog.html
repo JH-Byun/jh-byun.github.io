@@ -5,3 +5,7 @@ header:
   overlay_image: header/blog_header.jpg
 excerpt: "Blog"
 ---
+
+{% for post in site.categories.blog %}
+	{% include archive-single.html %}
+{% endfor %}
