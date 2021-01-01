@@ -6,19 +6,19 @@ header:
 ---
 
 
-# Linear control
+## Linear control
 1. classical PID [2]
   + easy to implement
   + hard to track fast trajectories
   + need some modifications for the aggressive manoeuver
 2. LQR [3]
   + only offers an optimal solution when the multirotor is on the near-hover state
-3. Robust control (H<sub>\infty</sub>) [4]
+3. Robust control (H<sub>$\infty$</sub>) [4]
   + not limited to the near hover condition
   + can provide better performance in trajectory tracking with noise and time delay
   + still based on the linearized dynamics so still limited to non-agile manoeuvers
       
-# Nonlinear control
+## Nonlinear control
 1. Feedback linearization [5]
   + can derive linear relation between the control input and derivatives of states
   + too sensitive to sensor noise (high frequency input)
