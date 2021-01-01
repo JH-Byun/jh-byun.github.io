@@ -6,15 +6,19 @@ header:
 ---
 
 1. Linear control
+  <ul>
   - PID
   - LQR
-  - H<sub>&infin</sub>;
-1. Nonlinear control 
+  - H<sub>&infin;</sub>
+  </ul>
+1. Nonlinear control
+  <ul>
   - Feedback linearization
   - Backstepping
   - Geometric control
   - Dynamic inversion
   - Backstepping on SE(3)
+  </ul>
 <br>
 <br>
 Reference<br>
