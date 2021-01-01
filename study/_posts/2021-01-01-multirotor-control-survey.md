@@ -9,7 +9,7 @@ use_math: true
 
 ## Linear control
 1. classical PID [2]
-  + easy to implement $x$
+  + easy to implement 
   + hard to track fast trajectories
   + need some modifications for the aggressive manoeuver
 2. LQR [3]
