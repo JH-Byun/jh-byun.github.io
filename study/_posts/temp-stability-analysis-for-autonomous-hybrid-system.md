@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Lyapunov-based stability analysis of the autonomous hybrid systems"
 use_math: true
 comments: true 
