@@ -5,19 +5,34 @@ header:
   image: 
 ---
 
-1. Linear control
-  <ul>- PID</ul>
-    <ul>simplest version of the linear controller </ul>
-  <ul>- LQR</ul>
-  <ul>- H<sub>&infin;</sub></ul>
-2. Nonlinear control
+<br>
+1. Dynamics of the multirotor
+<ul>
+  hi
+</ul>
+2. Various controllers
+<ul>
+  1. Linear control
   <ul>
-  - Feedback linearization <br>
-  - Backstepping <br>
-  - Geometric control <br>
-  - Dynamic inversion <br>
-  - Backstepping on SE(3)
+    - PID: the simplest structure among all control designs
   </ul>
+  <ul>
+    - LQR
+  </ul>
+  <ul>
+    - H<sub>&infin;</sub>
+  </ul>
+</ul>
+<ul>
+  2. Nonlinear control
+  <ul>
+    - Feedback linearization <br>
+    - Backstepping <br>
+    - Geometric control <br>
+    - Dynamic inversion <br>
+    - Backstepping on SE(3)
+  </ul>
+</ul>
 <br>
 <br>
 Reference<br>
