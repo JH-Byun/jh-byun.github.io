@@ -16,10 +16,16 @@ Switched system vs. Hybrid system <br>
 Switched system: for each $x$, only one $m$ is available <br>
 Hybrid system: there are some $x$ for each $m$
 <br><br>
-Steps for showing hybrid system <br>
+
+## Crucial notes
+Steps for showing the stability of autonomous hybrid systems <br>
 1. To guarantee that a solution exists for all possible initial conditions <br>
 2. No mode overlapping (there are finitely many switches of the discrete states in finite time) <br>
-3. (Assumption) All the equilibrium points are equivalent regardless of the operating modes. 
+3. (Assumption) All the equilibrium points are equivalent regardless of the operating modes. <br>
+<br>
+All possible cases: <br>
+Each mode is stable -> whole system is unstable <br>
+One of the mode is unstable -> whole system is stable (depending on the switching policy) <br>
 
 ## General theorems
 
