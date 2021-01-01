@@ -8,7 +8,7 @@ header:
 1. Linear control
   - PID
   - LQR
-  - H_$\inf$
+  - H_&infin
 1. Nonlinear control 
   - Feedback linearization
   - Backstepping
