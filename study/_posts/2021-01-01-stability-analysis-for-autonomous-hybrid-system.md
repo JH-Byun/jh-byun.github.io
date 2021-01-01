@@ -1,12 +1,9 @@
 ---
 layout: single
 title: "Lyapunov-based stability analysis of the autonomous hybrid systems"
-categories:
-  - study
-tags:
-  - study
+header:
+  image: 
 use_math: true
-comments: true
 ---
 
 ## Autonomous hybrid systems
