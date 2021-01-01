@@ -9,12 +9,16 @@ use_math: true
 ## Autonomous hybrid systems
 Differential equation which describes the system changes with the continuous state and the discrete state (a.k.a. "mode"). For example, a robotic manipulator which can interact with various environments such as wall, operating surface, etc. has two modes, the free mode (end-effector not interacting with environment) and the contact mode (end-effector interacting with environment). <br>
 Autonomous hybrid system can be formulated as <br>
-\[\dot{x}(t) = f(x(t),m(t))\] <br>
-\[m(t) = \phi(x(t),m(t^{-}))\] <br>
+$\dot{x}(t) = f(x(t),m(t))$ <br>
+$m(t) = \phi(x(t),m(t^{-}))$ <br>
 <br>
 * Switched system vs. Hybrid system
   - Switched system: for each $x$, only one $m$ is available
   - Hybrid system: there are some $x$ for each $m$
+<br><br>
+Steps for showing hybrid system
+1. To guarantee that a solution exists for all possible initial conditions
+1. No mode overlapping (there are finitely many switches of the discrete states in finite time)
 
 ## General theorems
 
