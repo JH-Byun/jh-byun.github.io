@@ -6,12 +6,11 @@ header:
 ---
 
 1. Linear control
-  <ul>
-  - PID <br>
-  - LQR <br>
-  - H<sub>&infin;</sub>
-  </ul>
-1. Nonlinear control
+  <ul>- PID</ul>
+    <ul>simplest version of the linear controller </ul>
+  <ul>- LQR</br>
+  <ul>- H<sub>&infin;</sub></ul>
+2. Nonlinear control
   <ul>
   - Feedback linearization <br>
   - Backstepping <br>
