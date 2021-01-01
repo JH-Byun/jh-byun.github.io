@@ -5,9 +5,16 @@ header:
   image: 
 ---
 <br>
-Reference paper: Lee, H., & Kim, H. J. (2017). Trajectory tracking control of multirotors from modelling to experiments: A survey. International Journal of Control, Automation and Systems, 15(1), 281-292. <br>
+Reference paper: Lee, H., & Kim, H. J. (2017). Trajectory tracking control of multirotors from modelling to experiments: A survey. International Journal of Control, Automation and Systems, 15(1), 281-292. 
 <br>
-1. Classical PID
+<br>
+# Linear control
+## classical PID
+## LQR
+## Robust control (H<sub>\infin</sub>)
+<ul><ul> characteristics
+  - LQR  
+</ul>
 - characteristics
 <ul>
   - one of the most well-known control law <br>
@@ -32,3 +39,4 @@ Reference paper: Lee, H., & Kim, H. J. (2017). Trajectory tracking control of mu
     - disadvantages
       - only offers an optimal solution when the multirotor is near hover state
 
+# Nonlinear control
