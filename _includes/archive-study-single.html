@@ -1,0 +1,52 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="pub__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="pub__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{post.conference}} {{post.date | date: "%Y"}}: {{ title }}</a>
+      {% endif %}
+    </h2>
+    {% if teaser %}
+      <div class="pub__item-teaser_leftOfText">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+        </a>
+      </div>
+    {% endif %}
+    <p class="pub__item-links" itemprop="description">
+    {% for link in post.links %}
+      {% if link.name and link.link contains "http" %}
+        [<a href="{{ link.link }}">{{ link.name }}</a>]
+      {% elsif link.name contains "Bibtex"  %}
+        [<a href="{{base_path}}{{ post.url }}index.html#bibtex">{{ link.name }}</a>]
+      {% else %}
+        [<a href="{{base_path}}{{ link.link }}">{{ link.name }}</a>]
+      {% endif %}
+    {% endfor %}
+    </p>
+    {% if post.excerpt %}
+    <p class="pub__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 500 }}</p>
+    {% endif %}
+  </article>
+</div>
