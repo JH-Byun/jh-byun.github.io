@@ -12,13 +12,13 @@ Autonomous hybrid system can be formulated as <br>
 $\dot{x}(t) = f(x(t),m(t))$ <br>
 $m(t) = \phi(x(t),m(t^{-}))$ <br>
 <br>
-* Switched system vs. Hybrid system
-  - Switched system: for each $x$, only one $m$ is available
-  - Hybrid system: there are some $x$ for each $m$
+Switched system vs. Hybrid system <br>
+Switched system: for each $x$, only one $m$ is available <br>
+Hybrid system: there are some $x$ for each $m$
 <br><br>
-Steps for showing hybrid system
-1. To guarantee that a solution exists for all possible initial conditions
-1. No mode overlapping (there are finitely many switches of the discrete states in finite time)
+Steps for showing hybrid system <br>
+1. To guarantee that a solution exists for all possible initial conditions <br>
+2. No mode overlapping (there are finitely many switches of the discrete states in finite time)
 
 ## General theorems
 
