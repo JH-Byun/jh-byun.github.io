@@ -4,6 +4,7 @@ title: "S-procedure?"
 use_math: true
 ---
 
+## Description
 <br>
 The **S-procedure** is also called "S-lemma". <br>
 **Definition**: It is a mathematical process to find the equivalent **linear matrix inequality (LMI)** that makes a **particular quadratic inequality**. <br>
@@ -14,6 +15,6 @@ The **S-procedure** is also called "S-lemma". <br>
 **THEN**  <br>
 $\exists \tau \req 0 s.t. F_{0} \req \tau F_{1}$ holds <br>
  
-##References
+## References
 [1] <https://stanford.edu/class/ee363/lectures/lmi-s-proc.pdf> <br>
 [2] <br>
