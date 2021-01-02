@@ -1,39 +1,27 @@
 ---
 layout: single
-title: "Trajectory tracking control of multirotors"
-header:
-  image: 
+title: "[Paper Reading] Trajectory tracking control of multirotors from modelling to experiments: A survey"
 use_math: true
 ---
 
-
-## Linear control
-1. classical PID [2]
-  + easy to implement 
-  + hard to track fast trajectories
-  + need some modifications for the aggressive manoeuver
-2. LQR [3]
-  + only offers an optimal solution when the multirotor is on the near-hover state
-3. Robust control (H<sub>&infin;</sub>) [4]
-  + not limited to the near hover condition
-  + can provide better performance in trajectory tracking with noise and time delay
-  + still based on the linearized dynamics so still limited to non-agile manoeuvers
-      
-## Nonlinear control
-1. Feedback linearization [5]
-  + can derive linear relation between the control input and derivatives of states
-  + too sensitive to sensor noise (high frequency input)
-2. Backstepping control (Powerful nonlinear control) [6]
-  + can obtain global stability because it can reduce the model uncertainty
-3. Geometric control (Powerful nonlinear control) [7]
-  + can avoid singularities in trajectory tracking
-  + simpler than quaternion-based controller
-  
-## Blended control
-1. Dynamic inversion with FL + backstepping [8]
-  + backstepping process in the outer-loop(position control) stabilizes the inner-loop(angular control)
-2. Backstepping on SE(3) [9]
-  + avoid singularity problem in classical backstepping controller
+## Paper information
+**Journal**: IJCAS (International Journal of Control, Automation and System) <br>
+**Date**: 2017 <br>
+**Author**: Hyeonbeom Lee, H.Jin Kim <br>
+ **Link**: <https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Trajectory+tracking+control+of+multirotors&btnG=> <br>
+ 
+## Main structure
+1. Linear control
+* classical PID [2]: easy to implement, but hard to track fast trajectories and need some modifications for the aggressive manoeuver
+* LQR [3]: only offers an optimal solution when the multirotor is on the near-hover state
+* Robust control (H<sub>&infin;</sub>) [4]: not limited to the near hover condition and can provide better performance in trajectory tracking with noise and time delay, but still based on the linearized dynamics so still limited to non-agile manoeuvers
+2. Nonlinear control
+* Feedback linearization [5]: can derive linear relation between the control input and derivatives of states but too sensitive to sensor noise (high frequency input)
+* **Backstepping control** [6]: can obtain global stability because it can reduce the model uncertainty
+* **Geometric control** [7]: can avoid singularities in trajectory tracking and simpler than quaternion-based controller
+3. Blended control
+* Dynamic inversion with FL + backstepping [8]: backstepping process in the outer-loop(position control) stabilizes the inner-loop(angular control)
+* Backstepping on SE(3) [9]: can avoid singularity problem in classical backstepping controller
 
 ## References
 [1] Lee, H., & Kim, H. J. (2017). Trajectory tracking control of multirotors from modelling to experiments: A survey. International Journal of Control, Automation and Systems, 15(1), 281-292. <br>
