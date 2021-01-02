@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Lyapunov-based stability and robustness analysis of the autonomous hybrid systems"
+title: "[Paper Reading] Stability and Robustness for Hybrid Systems"
 header:
   image: 
 use_math: true
