@@ -16,5 +16,5 @@ The **S-procedure** is also called "S-lemma". <br>
 $\exists \tau \req 0 s.t. F_{0} \req \tau F_{1}$ holds <br>
  
 ## References
-[1] <https://stanford.edu/class/ee363/lectures/lmi-s-proc.pdf> <br>
-[2] <br>
+[1] <https://stanford.edu/class/ee363/lectures/lmi-s-proc.pdf> 
+[2] <https://en.wikipedia.org/wiki/S-procedure> 
