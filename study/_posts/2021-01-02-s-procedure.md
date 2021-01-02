@@ -12,7 +12,8 @@ The S-procedure is also called "S-lemma". <br><br>
 *IF* <br>
 $0 \leq z^TF_{0}z \. \rightarrow \. 0 \leq z^TF_{1}z$ and, <br>
 there exists $z_0 \, s.t. \, 0 \leq z_{0}^{T}F_{0}z_{0}$ <br>
-*THEN* there exists a nonnegative $\tau \, s.t. \, \tau F_{1} \leq F_{0}$ <br>
+*THEN* <br>
+there exists a nonnegative $\tau \, s.t. \, \tau F_{1} \leq F_{0}$ <br>
  
 ## References
 [1] <https://stanford.edu/class/ee363/lectures/lmi-s-proc.pdf> <br>
