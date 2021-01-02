@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Lyapunov-based stability analysis of the autonomous hybrid systems"
+title: "Lyapunov-based stability and robustness analysis of the autonomous hybrid systems"
 header:
   image: 
 use_math: true
@@ -38,7 +38,9 @@ Even sequence $\Epsilon()$ <br>
 **Robustness analysis** <br>
 Uses LMI(Linear Matrix Inequailty) to analyze robustness<br>
 
-## General theorems
+## Stability analysis
+
+## Robustness
 
 ## Example: Multi DOF robotic manipulator
 
