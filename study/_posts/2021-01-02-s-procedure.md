@@ -6,12 +6,12 @@ use_math: true
 
 ## Description
 <br>
-The **S-procedure** is also called "S-lemma". <br>
-**Definition**: It is a mathematical process to find the equivalent **linear matrix inequality (LMI)** that makes a **particular quadratic inequality**. <br>
+The S-procedure is also called "S-lemma". <br><br>
+**Definition**: It is a mathematical process to find the equivalent **linear matrix inequality (LMI)** that makes a **particular quadratic inequality**. <br><br>
 **Procedure (w/o proof)** <br>
 **IF** <br>
-1. $z^TF_{0}z \req 0 \rightarrow z^TF_{0}z \req 0$ <br>
-2. $\exists z_0 s.t. z_{0}^{T}F_{0}z_{0} \req 0$ <br>
+$$z^TF_{0}z \req 0 \rightarrow z^TF_{0}z \req 0 \\
+\exists z_0 s.t. z_{0}^{T}F_{0}z_{0} \req 0$$ holds <br>
 **THEN**  <br>
 $\exists \tau \req 0 s.t. F_{0} \req \tau F_{1}$ holds <br>
  
