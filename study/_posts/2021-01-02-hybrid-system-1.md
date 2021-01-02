@@ -8,7 +8,6 @@ use_math: true
 **Conference**: CDC (Conference on Decision and Control) <br>
 **Date**: 1996 December <br>
 **Author**: Stefan Pettersson, Bengt Lennartson <br>
- about stability and robustness analysis of the hybrid system <br>
  **Link**: <https://ieeexplore.ieee.org/abstract/document/572653> <br>
 
 ## Purpose
