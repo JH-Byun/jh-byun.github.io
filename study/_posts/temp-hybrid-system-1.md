@@ -1,50 +1,38 @@
 ---
 layout: single
 title: "[Paper Reading] Stability and Robustness for Hybrid Systems"
-header:
-  image: 
 use_math: true
 ---
 
-## Autonomous hybrid systems
-Differential equation which describes the system changes with the continuous state and the discrete state (a.k.a. "mode"). For example, a robotic manipulator which can interact with various environments such as wall, operating surface, etc. has two modes, the free mode (end-effector not interacting with environment) and the contact mode (end-effector interacting with environment). <br>
-Autonomous hybrid system can be formulated as <br>
-$\dot{x}(t) = f(x(t),m(t))$ <br>
-$m(t) = \phi(x(t),m(t^{-}))$ <br>
-<br>
-Switched system vs. Hybrid system <br>
-Switched system: for each $x$, only one $m$ is available <br>
-Hybrid system: there are some $x$ for each $m$
-<br><br>
+## Paper information
+**Conference**: CDC (Conference on Decision and Control) <br>
+**Date**: 1996 December <br>
+**Author**: Stefan Pettersson, Bengt Lennartson <br>
+ about stability and robustness analysis of the hybrid system <br>
+ **Link**: <https://ieeexplore.ieee.org/abstract/document/572653> <br>
 
-## Crucial notes
-Steps for showing the stability of autonomous hybrid systems <br>
-To guarantee that a solution exists for all possible initial conditions <br>
-No modes-overlapping (there are finitely many switches of the discrete states in finite time) <br>
-(Assumption) All the equilibrium points are equivalent regardless of the operating modes <br>
-(Assumption) Set the equilibrium point as zero for the proof
-<br>
-All possible cases: <br>
-Each mode is stable -> whole system is unstable <br>
-One of the mode is unstable -> whole system is stable (depending on the switching policy) <br>
-Main result is theorem 1 and collorary 1(Restricted stability result - ) <br>
-Collorary 1 is more useful than theorem 1 because it does not require the continuous trajectory of the system <br>
-difference: LCF has a continuous partial derivative $\dot{V}_{q}$
-**Definitions** <br>
-Switching sequence $\Delta_{(x_0,m_0)}$ <br>
-Interval completion $I()$ <br>
-Even sequence $\Epsilon()$ <br>
-**How to find Lyapunov Candidate Function** <br>
-**Robustness analysis** <br>
-Uses LMI(Linear Matrix Inequailty) to analyze robustness<br>
+## Purpose
+General derivation of the stability and robustness of the hybrid systems is the main purpose of this paper. Additionally, the method for finding candidate Lyapunov and a simple example are also presented.
 
-## Stability analysis
+## Main Structure
+1. **Hybrid model**
+* Definition of the autonomous hybrid systems + difference between the switched system and the hybrid system
+* Some notions required to analyze the Lyapunov stability of the system (switching set, switching sequence, etc.)
+* Some assumptions required
+2. **Stability**
+* Some notions and definitions (**candidate Lyapunov function**, interval completion, even sequence, etc.)
+* **Theorem 1**: The most general form in this paper, but a bit complicated for the engineering application
+* **Collorary 1**: Restriced stability result, does not require the continuous trajectory of the system
+3. **Lyapunov function generation by solving linear matrix inequalities**
+* Method for finding candidate Lyapunov function
+* Uses S-procedure.
+4. **Robustness**
+* **Acceptable switching regions**: can derive so-called "acceptable switch region" which can guarantee the stability of whole system.
+* **Maximum robustness**: can enlarge the set that satisfies the sufficient conditions of the collorary 1 until the LMI problem does not have any solution.
 
-## Robustness
-
-## Example: Multi DOF robotic manipulator
+## Contribution
+There are some contributions written in this paper but this script is too old for evaluating its originality. However, **it is very readable and informative for readers who are interested in the analysis of hybrid systems.**
 
 ## References
 [1] Pettersson, S., & Lennartson, B. (1996, December). Stability and robustness for hybrid systems. In Proceedings of 35th IEEE Conference on Decision and Control (Vol. 2, pp. 1202-1207). IEEE. <br>
 [2] Branicky, M. S. (1994, December). Stability of switched and hybrid systems. In Proceedings of 1994 33rd IEEE Conference on Decision and Control (Vol. 4, pp. 3498-3503). IEEE. <br>
-[3] Doulgeri, Z., & Iliadis, G. (2007). Stability of a contact task for a robotic arm modelled as a switched system. IET Control Theory & Applications, 1(3), 844-853.
