@@ -1,12 +1,15 @@
 ---
 layout: single
-title: "[Matlab] Useful functions about Laplace & Fourier Transfrom"
+title: "[Matlab] Useful functions 1"
 use_math: true
 ---
 
 ## Description
-I found a useful website which describes the kinds of branches utilized in github. <br>
-Please take a loot at it.
+1. Numeric to symbolic <br>
+sym(t) // t is a numeric number (usually "double") <br>
+2. Symbolic to numeric <br>
+
  
 ## References
-[1] <https://stackoverflow.com/questions/16408300/what-are-the-differences-between-local-branch-local-tracking-branch-remote-bra> <br>
+[1] <https://kr.mathworks.com/help/symbolic/double.html> <br>
+[2] <>
