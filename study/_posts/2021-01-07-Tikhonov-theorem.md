@@ -11,7 +11,7 @@ use_math: true
 2. Theorem summary <br>
 **IF**: For the singular pertubation from of an autonomous system, <br>
 **THEN**: the exact solutions of the differential equation $z(t,\epsilon)$, $x(t,\epsilon)$ are $\epsilon$-close to that of nominal dynamics $\bar{z}(t)$, $\bar{x}(t)$ and the solution of fast dynamics $z(t,\epsilon)$ converges to the nominal solution $\bar{z}(t)$.
-3. For details: refer to [1](book) or [2](lecture note on CDSL, SNU)
+3. For details: refer to [1](textbook) or [2](lecture note on CDSL, SNU)
 
  
 ## References
