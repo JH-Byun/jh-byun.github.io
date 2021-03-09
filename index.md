@@ -6,7 +6,7 @@ header:
 excerpt: "developing control and planning of aerial manipulation"
 ---
 
-In Spring 2020, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</a> in Seoul National University to pursue research in **aerial robotics**. I am currently working with Dongjae Lee and Inkyu Jang.
+In Spring 2020, I joined <a href="https://larr.snu.ac.kr/" target="_blank">LARR</a> in Seoul National University to pursue research in **aerial robotics**. I am currently working with <a href="https://dongjaelee95.github.io/" target="_blank">Dongjae Lee</a> and Inkyu Jang.
 
 [comment]: <> (I am very grateful for the many friends, advisors and my family which support me on this journey.)
 [comment]: <> (### developing artificial 3D perception)
