@@ -272,6 +272,4 @@ incremental: false
 # Collections
 collections:
   study:
-    research: true
-    languages: true
-    
+    output: true
