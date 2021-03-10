@@ -16,7 +16,4 @@ My research interests in robotics are in **aerial manipulation** and **hybrid dy
 {% include feature_row id="feature_row_pub" caption="Featured Publications" %}
 
 [1]: {{ base_path }}/pub/Robust-Visual-Odometry-via-Rigid-Motion-Segmentation-for-Dynamic-Environments/ "EMIVO"
-[2]: {{ base_path }}/pub/Realtime-Rigid-Motion-Segmentation-using-Grid-based-Optical-Flow/ "GD-MoSeg"
-[3]: {{ base_path }}/pub/Survey-on-Visual-Odometry-Technology-for-Unmanned-Systems/ "Survey on Visual Odometry"
-[4]: {{ base_path }}/pub/Exposure-Correction-and-Image-Blending-for-Planar-Panorama-Stitching/ "Panorama Stitching"
 
