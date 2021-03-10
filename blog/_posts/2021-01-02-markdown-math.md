@@ -1,5 +1,5 @@
 ---
-title: "[Attachment] How to write mathematical equations to the markdown files?"
+title: "[External Link] How to write mathematical equations to the markdown files?"
 categories:
   - Blog
 tags:
