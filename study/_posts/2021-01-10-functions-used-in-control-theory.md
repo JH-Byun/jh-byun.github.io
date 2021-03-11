@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Definition of functions used in the control theory"
+title: "[Control Theory] Definition of functions used in the control theory"
 use_math: true
 ---
 
