@@ -11,9 +11,8 @@ In Spring 2020, I joined <a href="https://larr.snu.ac.kr/" target="_blank">LARR<
 [comment]: <> (I am very grateful for the many friends, advisors and my family which support me on this journey.)
 [comment]: <> (### developing artificial 3D perception)
 
-My research interests in robotics are in **aerial manipulation** and **hybrid dynamical system**.
+My research interests in robotics are in **aerial manipulation**[[1]] and **hybrid dynamical system**.
 
 {% include feature_row id="feature_row_pub" caption="Featured Publications" %}
 
-[1]: {{ base_path }}/pub/Robust-Visual-Odometry-via-Rigid-Motion-Segmentation-for-Dynamic-Environments/ "EMIVO"
-
+[1]: {{ base_path }}/pub/Robust-Visual-Odometry-via-Rigid-Motion-Segmentation-for-Dynamic-Environments/ "On-line parameteter estimation of a hexacopter equipped with 2-DOF robotic arm against disturbance"
