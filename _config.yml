@@ -30,10 +30,10 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
+  filename               : entry{@timestamp}
+  format                 : "yaml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
@@ -41,9 +41,9 @@ staticman:
     email                : "md5"
   generatedFields:
     date:
-      type               : "date"
+      type               : date
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "timestamp-seconds" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
