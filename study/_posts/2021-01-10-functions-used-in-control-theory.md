@@ -5,13 +5,12 @@ tag: Control Theory
 use_math: true
 ---
 
-## Description
-### Sets
+## Sets
 1. Compact set
 * $S$ is covered by *a collection of open sets*, $O$ ($S \subset $ (at least one member of) $O$), and said to compact if $S$ is covered by some finite set of members of $O$ for every covering $O$ of $S$ by open sets. 
 * In Euclidean space ($\mathbb{R}^{n}$), it is defined as a **closed** and **bounded** subset of Euclidean space, e.g. closed interval, rectagnle, finite set of points. This property is proved in detail in [4].
 
-### Functions
+## Functions
 1. Class $K$ function
 * a continuous function $\alpha$: [0,a) $\rightarrow$ [0,$\infty$)
 * a strictly increasing function
