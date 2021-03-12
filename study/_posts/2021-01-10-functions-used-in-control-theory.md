@@ -1,11 +1,17 @@
 ---
 layout: single
-title: "Definition of functions used in the control theory"
+title: "Sets and functions used in the control theory"
 tag: Control Theory
 use_math: true
 ---
 
 ## Description
+### Sets
+1. Compact set
+* $S$ is covered by *a collection of open sets*, $O$ ($S \subset $ (at least one member of) $O$), and said to compact if $S$ is covered by some finite set of members of $O$ for every covering $O$ of $S$ by open sets. 
+* In Euclidean space ($\R^{n}$), it is defined as a **closed** and **bounded** subset of Euclidean space, e.g. closed interval, rectagnle, finite set of points. This property is proved in detail in [4].
+
+### Functions
 1. Class $K$ function
 * a continuous function $\alpha$: [0,a) $\rightarrow$ [0,$\infty$)
 * a strictly increasing function
@@ -20,3 +26,5 @@ $s$ $\rightarrow$ $\infty$
 ## Reference
 [1] <https://en.wikipedia.org/wiki/Class_kappa_function> <br>
 [2] <https://en.wikipedia.org/wiki/Class_kappa-ell_function> <br>
+[3] <https://en.wikipedia.org/wiki/Compact_space> <br>
+[4] <http://www-math.mit.edu/~djk/calculus_beginners/chapter16/section02.html> <br>
