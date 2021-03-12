@@ -5,10 +5,8 @@ tag: Control Theory
 use_math: true
 ---
 
-## Description
-<br>
-The S-procedure is also called "S-lemma". <br><br>
-**Definition**: It is a mathematical process to find the equivalent *linear matrix inequality (LMI)* that makes a *particular quadratic inequality*. <br><br>
+The S-procedure, also called as "S-lemma" is defined as follows. <br><br>
+**Definition**: A mathematical process to find the equivalent *linear matrix inequality (LMI)* that makes a *particular quadratic inequality*. <br>
 **Procedure (w/o proof)** <br>
 *IF* <br>
 $0 \leq z^TF_{0}z \, \rightarrow \, 0 \leq z^TF_{1}z$ <br>
