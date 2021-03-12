@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "S-procedure"
+tag: Control Theory
 use_math: true
 ---
 
