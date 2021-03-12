@@ -270,6 +270,4 @@ excerpt_separator: "\n\n"
 incremental: false
 
 # Collections
-collections:
-  study:
-    output: true
+logo: "/assets/images/larr_logo.png"
