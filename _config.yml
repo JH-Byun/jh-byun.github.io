@@ -271,3 +271,6 @@ incremental: false
 
 # Collections
 logo: "/assets/images/larr_logo.png"
+
+# Site-wide search
+search: true
