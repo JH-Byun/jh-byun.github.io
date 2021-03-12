@@ -71,9 +71,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (defulat), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (defulat), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-109409543-1"
+    tracking_id          : "UA-1234567-8"
+    anonymize_ip         : false
 
 
 # Site Author
