@@ -15,4 +15,4 @@ My research interests in robotics are in **aerial manipulation**[[1]] and **hybr
 
 {% include feature_row id="feature_row_pub" caption="Featured Publications" %}
 
-[1]: {{ base_path }}/pub/"On-line parameteter estimation of a hexacopter equipped with 2-DOF robotic arm against disturbance"
+[1]: {{ base_path }}/pub/ICCAS/"On-line parameteter estimation of a hexacopter equipped with 2-DOF robotic arm against disturbance"
