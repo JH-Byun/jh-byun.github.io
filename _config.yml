@@ -19,15 +19,15 @@ logo                     : "/images/larr_logo.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook: #https://developers.facebook.com/docs/plugins/comments
-    appid                : 454749595953130
-    num_posts            : 5 #5 (default)
-    colorscheme          : "light" # "light" (default), "dark"
+    appid                : # 454749595953130
+    num_posts            : #5 (default)
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : # "master", "gh-pages"
