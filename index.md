@@ -15,4 +15,4 @@ My research interests in robotics are in **aerial manipulation**[[1]] and **hybr
 
 {% include feature_row id="feature_row_pub" caption="Featured Publications" %}
 
-[1]: {{ base_path }}/pub/_posts/2020-10-14-ICCAS.md
+[1]: {{ base_path }}/pub/ICCAS
