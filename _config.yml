@@ -263,7 +263,7 @@ defaults:
       related: true
 
 # Math equation
-markdown: kramdownfacebook.com/docs/plugins/comments#configurator
+markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
