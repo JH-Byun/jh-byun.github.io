@@ -46,6 +46,7 @@ staticman:
         format           : "timestamp-seconds" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+search                   : true
 
 # SEO Related
 google_site_verification :
@@ -268,6 +269,3 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
-# Site-wide search
-search: true
