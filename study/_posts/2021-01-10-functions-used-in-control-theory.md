@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Sets and functions used in the control theory"
-tag: Control Theory
+tag: "Control Theory"
 use_math: true
 ---
 
