@@ -17,4 +17,4 @@ My research interests in robotics are in **aerial manipulation**[[1]] and **hybr
 
 [1]: {{ base_path }}/pub/ICCAS
 
-My publications and open projects will be uploaded in this website. Also, my daily life will also be posted on <a href="https://jh-byun.github.io/_pages/blog/index.html" target="_blank">Blog</a> and <a href="https://jh-byun.github.io/_pages/photography/index.html" target="_blank">Photography</a>.
+My publications and open projects will be uploaded in this website. Also, my daily life will also be posted on <a href="https://jh-byun.github.io/_pages/blog/index.html">Blog</a> and <a href="https://jh-byun.github.io/_pages/photography/index.html">Photography</a>.
