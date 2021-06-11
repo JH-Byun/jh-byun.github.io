@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Jeonghyun Byun"
 title_separator          : "-"
 name                     : "Jeonghyun Byun"
-description              : "developing control and planning of aerial manipulation"
+description              : "Developing the control and planning algorithm for aerial manipulation"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : JH-Byun/jh-byun.github.io

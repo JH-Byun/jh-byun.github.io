@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /_pages/pub/index.html
     
-  - title: "Study"
+  - title: "STUDY"
     url: /_pages/study/index.html
 
-  - title: "Blog"
+  - title: "BLOG"
     url: /_pages/blog/index.html
 
-  - title: "Photography"
+  - title: "PHOTOGRAPHY"
     url: /_pages/photography/index.html
