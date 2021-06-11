@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Terminologies and Concepts used in Control and Estimation Theory - 1"
+title: "[ACADEMIC STUDY] Terminologies and Concepts used in Control and Estimation Theory - 1"
 use_math: true
 ---
 
@@ -45,6 +45,12 @@ use_math: true
         * for each fixed $s$, the function $\beta(r,s)$ belongs to class $K$
         * for each fixed $r$, the function $\beta(r,s)$ is decreasing with respect to $s$ and is s.t. $\beta(r,s)$ $\rightarrow$ 0 for $s$ $\rightarrow$ $\infty$
 
+5. **S-procedure**: The S-procedure, also called as "S-lemma" is defined as follows.
+    * **Definition**: A mathematical process to find the equivalent *linear matrix inequality (LMI)* that makes a *particular quadratic inequality*. 
+    * **Procedure (w/o proof)** 
+        - *IF* $0 \leq z^TF_{0}z \, \rightarrow \, 0 \leq z^TF_{1}z$ and there exists $z_0 \, s.t. \, 0 \leq z_{0}^{T}F_{0}z_{0}$ 
+        - *THEN* there exists a nonnegative $\tau \, s.t. \, \tau F_{1} \leq F_{0}$ 
+        
 ## Reference
 [1] <https://en.wikipedia.org/wiki/Convex_set> <br>
 [2] <https://en.wikipedia.org/wiki/Impedance_control> <br>

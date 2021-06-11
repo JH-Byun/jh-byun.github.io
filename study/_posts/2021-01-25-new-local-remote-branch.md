@@ -1,7 +1,6 @@
 ---
 layout: single
-title: "Make a new local/remote branch"
-tag: github
+title: "[GIT] Make a new local/remote branch"
 use_math: true
 ---
 
