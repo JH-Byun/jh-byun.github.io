@@ -12,7 +12,7 @@ In Spring 2020, I joined <a href="https://larr.snu.ac.kr/" target="_blank">LARR<
 I am currently working with <a href="https://dongjaelee95.github.io/" target="_blank">Dongjae Lee</a>. 
 
 ## Purpose of Posting
-As a graduate student, I am going to share our publications on <a href="https://jh-byun.github.io/_pages/pub/index.html">PUBLICATIONS</a> tab whenever our research team publish a paper to conferences or journals. Not only that, my daily life will be posted on <a href="https://jh-byun.github.io/_pages/blog/index.html">BLOG</a> tab and <a href="https://jh-byun.github.io/_pages/photography/index.html">PHOTOGRAPHY</a> tab to share my personal life, too.
+As a graduate student, I am going to share our publications on <a href="https://jh-byun.github.io/_pages/pub/index.html">PUBLICATIONS</a> tab whenever our research team publish a paper to conferences or journals and our team's open projects on <a href="https://jh-byun.github.io/_pages/pub/index.html">STUDY</a> tab. Not only that, my daily life will be posted on <a href="https://jh-byun.github.io/_pages/blog/index.html">BLOG</a> tab and <a href="https://jh-byun.github.io/_pages/photography/index.html">PHOTOGRAPHY</a> tab to share my personal life, too.
 
 ## Will it be helpful for you?
 If you are interested in analyzing the aerial manipulation using the concept of hybrid dynamical systems, you can look around our publications and open projects to find an inspiration. Also, you can also contact me using various ways, such as e-mail, facebook, instagram, etc., to discuss the relevant topics.
