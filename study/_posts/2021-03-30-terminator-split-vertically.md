@@ -1,9 +1,5 @@
 ---
 title: "[Ubuntu 20.04] Enable the Ctrl+Shift+E Key setting for splitting the terminator window vertically."
-categories:
-  - Blog
-tags:
-  - Blog
 ---
 ## Motivation
 If we upgrade our ubuntu version to 20.04 and install TERMINATOR, there exists a problem that the key setting Ctrl+Shit+E doesn't work for splitting its window vertically.

@@ -1,9 +1,5 @@
 ---
 title: "[External Link] How to write mathematical equations to the markdown files?"
-categories:
-  - Blog
-tags:
-  - Blog
 ---
 
 I want to share useful websites about **"How to write mathematical equations to the markdown files?"** <br>

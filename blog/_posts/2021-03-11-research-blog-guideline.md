@@ -1,12 +1,6 @@
 ---
 title: "[External Link] How to start blogging as a researcher"
 excerpt: "Start a blog as a researcher!"
-
-categories:
-  - Blog
-tags:
-  - Blog
-last_modified_at: 2021-03-01T11:04:00-05:00
 ---
 
 Since it's becoming really important to show my research efforts via internet space, many researchers begin to post their works on blogs.
