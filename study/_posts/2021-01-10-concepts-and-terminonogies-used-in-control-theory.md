@@ -2,6 +2,7 @@
 layout: single
 title: "[ACADEMIC STUDY] Terminologies and Concepts used in Control and Estimation Theory - 1"
 use_math: true
+show_date: true
 ---
 
 1. **Control methods**
