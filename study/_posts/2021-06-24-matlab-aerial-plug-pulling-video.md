@@ -4,7 +4,7 @@ use_math: true
 ---
 Aerial manipulation is one of the rising topics which can simultaneously leverage versatility of the robotic manipulator and maneuverability of the unmanned aerial vehicle (UAV). 
 
-Currently, I am conducting researsh on the aerial plug-pulling task which entails two different dynamical models. Therefore, to validate my assumptions and theorems, there needs an elaborate simulator. As a result I made a MATLAB simulation to visualize the aerial manipulator holding onto the plug which is attached to the socket. The video shown below is the result of my recent work on the controller design which is suitable for the plug-pulling mode. 
+Currently, I am conducting research on the aerial plug-pulling task which entails two different dynamical models. Therefore, to validate my assumptions and theorems, there needs an elaborate simulator. As a result I made a MATLAB simulation to visualize the aerial manipulator holding onto the plug which is attached to the socket. The video is a 3D animation which shows the performance of my control law which is designed based on the plug-pulling situation. 
 
 <figure class="video_container">
     <center><video width = "700" height="500" controls="true" allowfullscreen="true" poster="">
