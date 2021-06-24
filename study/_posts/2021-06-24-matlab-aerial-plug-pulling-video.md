@@ -1,8 +1,10 @@
 ---
-title: "MATLAB simulation video of the plug-pulling task using an aerial manipulator"
+title: "3D Animation of the aerial plug-pulling"
 use_math: true
 ---
-To simulate the aerial manipulator which holds onto the plug attached to the socket, I made a corresponding MATLAB simulation. The below video is the result of my recent work about aerial manipulation and hybrid controller design. 
+Aerial manipulation is one of the rising topics which can simultaneously leverage versatility of the robotic manipulator and maneuverability of the unmanned aerial vehicle (UAV). 
+
+Currently, I am conducting researsh on the aerial plug-pulling task which entails two different dynamical models. Therefore, to validate my assumptions and theorems, there needs an elaborate simulator. As a result I made a MATLAB simulation to visualize the aerial manipulator holding onto the plug which is attached to the socket. The video shown below is the result of my recent work on the hybrid controller design which corresponds with the aerial plug-pulling task. 
 
 <figure class="video_container">
     <center><video width = "700" height="500" controls="true" allowfullscreen="true" poster="">
@@ -10,4 +12,4 @@ To simulate the aerial manipulator which holds onto the plug attached to the soc
   </video></center>
 </figure>
 
-Source code is uploaded on my private github repository but it will be soon transformed into pulic repository.
+Source code was already uploaded on my private Github repository (https://github.com/JH-Byun) but it will be soon released to the publics.
