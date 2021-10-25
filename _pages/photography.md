@@ -2,6 +2,26 @@
 layout: single
 author_profile: true
 
+gallery-iccas2021-1:
+  - url: photography/iccas2021/iccas_2021-1.jpg
+    image_path: photography/iccas2021/iccas_2021-1.jpg
+    alt: "Preparing presentation in the beach café"
+
+gallery-iccas2021-2:
+  - url: photography/iccas2021/iccas_2021-2.jpg
+    image_path: photography/iccas2021/iccas_2021-2.jpg
+    alt: "Answering to the questions on my ICCAS paper"
+    
+gallery-iccas2021-3:
+  - url: photography/iccas2021/iccas_2021-3.jpg
+    image_path: photography/iccas2021/iccas_2021-3.jpg
+    alt: "Hanllabong icecream with Seongsan Ilchulbong background"
+    
+gallery-iccas2021-4:
+  - url: photography/iccas2021/iccas_2021-4.jpg
+    image_path: photography/iccas2021/iccas_2021-4.jpg
+    alt: "Baeklondam of Hanlla mountain"
+    
 gallery-jeju-1:
   - url: photography/ksas/ksas-1.jpg
     image_path: photography/ksas/ksas-1.jpg
@@ -35,7 +55,14 @@ gallery-paris-3:
 
 {% include base_path %}
 
-## KSAS, Jeju island, Korea Rep.
+## ICCAS 2021, Jeju island, Korea Rep.
+
+{% include gallery id="gallery-iccas2021-1" caption="" %}
+{% include gallery id="gallery-iccas2021-2" caption="" %}
+{% include gallery id="gallery-iccas2021-3" caption="" %}
+{% include gallery id="gallery-iccas2021-4" caption="" %}
+
+## KSAS 2020, Jeju island, Korea Rep.
 
 {% include gallery id="gallery-jeju-1" caption="" %}
 {% include gallery id="gallery-jeju-2" caption="" %}
