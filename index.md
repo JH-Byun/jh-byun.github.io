@@ -7,7 +7,7 @@ excerpt: "Developing the control and planning algorithm for aerial manipulation"
 ---
 
 ## Profile
-In Spring 2020, I joined <a href="https://larr.snu.ac.kr/" target="_blank">LARR</a> in Seoul National University to pursue research in **aerial robotics**. My research interests in robotics are in **aerial manipulation** [<a href="https://jh-byun.github.io/pub/ICCAS/">1</a>] and **hybrid dynamical system**.  
+In Spring 2020, I joined <a href="https://larr.snu.ac.kr/" target="_blank">LARR</a> in Seoul National University to pursue research in **aerial robotics**. My research interests in robotics are in **aerial manipulation** [<a href="https://jh-byun.github.io/pub/ICCAS/">1</a>].  
 
 I am currently working with <a href="https://dongjaelee95.github.io/" target="_blank">Dongjae Lee</a>. 
 
