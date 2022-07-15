@@ -2,6 +2,26 @@
 layout: single
 author_profile: true
 
+gallery-ascc2022-1:
+  - url: photography/ascc2022/ascc2022-1.jpg
+    image_path: photography/ascc2022/ascc2022-1.jpg
+    alt: "Taking a break in the beach café"
+
+gallery-ascc2022-2:
+  - url: photography/ascc2022/ascc2022-2.jpg
+    image_path: photography/ascc2022/ascc2022-2.jpg
+    alt: "Photo in front of the sea"
+    
+gallery-ascc2022-3:
+  - url: photography/ascc2022/ascc2022-3.jpg
+    image_path: photography/ascc2022/ascc2022-3.jpg
+    alt: "ASCC room 2"
+    
+gallery-ascc2022-4:
+  - url: photography/ascc2022/ascc2022-5.jpg
+    image_path: photography/ascc2022/ascc2022-5.jpg
+    alt: "Raw mackerel"
+    
 gallery-iccas2021-1:
   - url: photography/iccas2021/iccas_2021-1.jpg
     image_path: photography/iccas2021/iccas_2021-1.jpg
@@ -54,6 +74,13 @@ gallery-paris-3:
 ---
 
 {% include base_path %}
+
+## ASCC 2022, Jeju island, Korea Rep.
+
+{% include gallery id="gallery-ascc2022-1" caption="" %}
+{% include gallery id="gallery-ascc2022-2" caption="" %}
+{% include gallery id="gallery-ascc2022-3" caption="" %}
+{% include gallery id="gallery-ascc2022-4" caption="" %}
 
 ## ICCAS 2021, Jeju island, Korea Rep.
 
