@@ -2,6 +2,31 @@
 layout: single
 author_profile: true
 
+gallery-london2022-1:
+  - url: photography/london2022/london2022-1.jpg
+    image_path: photography/london2022/london2022-1.jpg
+    alt: "Traffic lights with the Big Ben"
+    
+gallery-london2022-2:
+  - url: photography/london2022/london2022-2.jpg
+    image_path: photography/london2022/london2022-2.jpg
+    alt: "Harry Potter museum 1"
+    
+gallery-london2022-3:
+  - url: photography/london2022/london2022-3.jpg
+    image_path: photography/london2022/london2022-3.jpg
+    alt: "Harry Potter museum 2"
+
+gallery-london2022-4:
+  - url: photography/london2022/london2022-4.jpg
+    image_path: photography/london2022/london2022-4.jpg
+    alt: "Watermelons in the Borough market"
+    
+gallery-london2022-5:
+  - url: photography/london2022/london2022-5.jpg
+    image_path: photography/london2022/london2022-5.jpg
+    alt: "Lion King musical place"
+    
 gallery-ascc2022-1:
   - url: photography/ascc2022/ascc2022-1.jpg
     image_path: photography/ascc2022/ascc2022-1.jpg
@@ -74,6 +99,14 @@ gallery-paris-3:
 ---
 
 {% include base_path %}
+
+## Personal travel, London, UK
+
+{% include gallery id="gallery-london2022-1" caption="" %}
+{% include gallery id="gallery-london2022-2" caption="" %}
+{% include gallery id="gallery-london2022-3" caption="" %}
+{% include gallery id="gallery-london2022-4" caption="" %}
+{% include gallery id="gallery-london2022-5" caption="" %}
 
 ## ASCC 2022, Jeju island, Korea Rep.
 
