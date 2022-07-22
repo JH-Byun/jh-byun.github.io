@@ -28,15 +28,15 @@ udevadm info ==name=/dev/ttyUSB0 --attribute-walk
 </pre>
 On your terminal, the *Udevadm* information is shown.
 Among a number of results, find the lines shown as follows:
-<br> ------------------------------------------------------- </br>
-<br> ... </br>
-<br> ATTRS{devnum}=="x" </br>
-<br> ATTRS{devpath}=="y" </br>
-<br> **ATTRS{idProduct}=="zzzz"** </br>
-<br> **ATTRS{idVendor}=="wwww"** </br>
-<br> ATTRS{ltm_capable}=="no" </br>
-<br> ... </br>
-<br> ------------------------------------------------------- </br>
+<br> ------------------------------------------------------- 
+<br> ... 
+<br> ATTRS{devnum}=="x" 
+<br> ATTRS{devpath}=="y"
+<br> **ATTRS{idProduct}=="zzzz"**
+<br> **ATTRS{idVendor}=="wwww"**
+<br> ATTRS{ltm_capable}=="no"
+<br> ...
+<br> -------------------------------------------------------
 
 ### 3. Edit or create a file related to the kernel information
 Move to the directory */etc/udev/rules.d/*,
@@ -52,9 +52,9 @@ sudo gedit 99-usb-serial.rules
 </code>
 </pre>
 In this file, type the following statements with your device name:
-<br> ------------------------------------------------------- </br>
-<br> SUBSYSTEM=="tty", ATTRS{idVendor}=="wwww", ATTRS{idProduct}=="zzzz", SYMLINK+="device_name" </br>
-<br> ------------------------------------------------------- </br>
+<br> ------------------------------------------------------- 
+<br> SUBSYSTEM=="tty", ATTRS{idVendor}=="wwww", ATTRS{idProduct}=="zzzz", SYMLINK+="device_name" 
+<br> ------------------------------------------------------- 
 
 ### 4. Load a new rule and verify the change
 Load the new rule,
@@ -70,5 +70,6 @@ ls -l /dev/device_name
 </code>
 </pre>
 
- ## Reference
- https://unix.stackexchange.com/questions/66901/how-to-bind-usb-device-under-a-static-name
+
+## Reference
+https://unix.stackexchange.com/questions/66901/how-to-bind-usb-device-under-a-static-name
