@@ -16,7 +16,7 @@ ls /dev/
 </code>
 </pre>
 Then, disconnect the USB device and type the above command again. If your USB device works properly, one kernel will be missing.
-Remember or note the name of missing kernel. 
+Memorize or note the name of missing kernel. 
 For the explanation, I will use "/dev/ttyUSB0" as an example of a kernel's name.
 
 ### 2. Find information on the connected USB
@@ -26,28 +26,49 @@ Connect the USB device again, and type the following command.
 udevadm info ==name=/dev/ttyUSB0 --attribute-walk
 </code>
 </pre>
-On your terminal, the **Udevadm** information is shown.
+On your terminal, the *Udevadm* information is shown.
 Among a number of results, find the lines shown as follows:
-<br> --- </br>
-<br> --- </br>
+<br> ------------------------------------------------------- </br>
+<br> ... </br>
+<br> ATTRS{devnum}=="x" </br>
+<br> ATTRS{devpath}=="y" </br>
+<br> **ATTRS{idProduct}=="zzzz"** </br>
+<br> **ATTRS{idVendor}=="wwww"** </br>
+<br> ATTRS{ltm_capable}=="no" </br>
+<br> ... </br>
+<br> ------------------------------------------------------- </br>
 
 ### 3. Edit or create a file related to the kernel information
+Move to the directory */etc/udev/rules.d/*,
 <pre>
 <code>
-git checkout -b new_branch
+cd /etc/udev/rules.d
 </code>
 </pre>
-
+then create a file 99-usb-serial.rules.
+<pre>
+<code>
+sudo gedit 99-usb-serial.rules
+</code>
+</pre>
+In this file, type the following statements with your device name:
+<br> ------------------------------------------------------- </br>
+<br> SUBSYSTEM=="tty", ATTRS{idVendor}=="wwww", ATTRS{idProduct}=="zzzz", SYMLINK+="device_name" </br>
+<br> ------------------------------------------------------- </br>
 
 ### 4. Load a new rule and verify the change
-To add a new branch (name: new_branch) to the local space (e.g. personal laptop, desktop)
-And to push it to the remote space (e.g. github space)  
+Load the new rule,
 <pre>
 <code>
-git push origin new_branch
+sudo udevadm trigger
 </code>
 </pre>
-**Caution**: Make the remote branch on the desired local branch. 
- 
+then check if the static name setting is done properly
+<pre>
+<code>
+ls -l /dev/device_name
+</code>
+</pre>
+
  ## Reference
  https://unix.stackexchange.com/questions/66901/how-to-bind-usb-device-under-a-static-name
