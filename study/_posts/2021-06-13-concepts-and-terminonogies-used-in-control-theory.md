@@ -1,5 +1,5 @@
 ---
-title: "[ACADEMIC STUDY] Terminologies and Concepts used in Control and Estimation Theory - 1"
+title: "[STUDY] Terminologies and Concepts used in Control and Estimation Theory - 1"
 use_math: true
 ---
 
