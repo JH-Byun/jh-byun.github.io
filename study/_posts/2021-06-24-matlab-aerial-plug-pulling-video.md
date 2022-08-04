@@ -1,5 +1,5 @@
 ---
-title: "3D Animation of the aerial plug-pulling task"
+title: "[PERSONAL RESEARCH] 3D Animation of the aerial plug-pulling task"
 use_math: true
 ---
 Aerial manipulation is one of the rising topics which can simultaneously leverage versatility of the robotic manipulator and maneuverability of the unmanned aerial vehicle (UAV). 
