@@ -13,6 +13,7 @@ Recovery process is actually simple.
 If the created .bag.active file's name is &&&& and the name of .bag file that you want to create it ####, the entire process is shown as below.
 <pre>
 <code>
+rosbag reindex &&&&.bag.active
 rosbag fix &&&&.bag.active ####.bag
 </code>
 </pre>
