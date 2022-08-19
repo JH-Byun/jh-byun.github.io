@@ -5,13 +5,50 @@ use_math: true
 ---
 [Arduino](https://www.arduino.cc/) board is a type of MCU (MicroController Unit) which can transmit analog/digital sensor outputs via serial communication.
 
+<p><a href="https://www.arduino.cc/en/hardware">
+<center><img src="/images/tumbnails/arduino_nano_image.jpg" width="324" height="184"></center>
+</a></p>
+  
+If a sensor you use does not have its own ROS node or package to communicate via ROS messages, using Arduino board might be a solution. Therefore, there needs a way to convert the **Serial messages** generated from Arduino board to their corresponding **ROS messages**. 
 
-While conducting a robot experiment with ROS (Robot Operating System), you usually use the [rosbag](http://wiki.ros.org/rosbag) package to collect the data from the ROS topics. 
-However, if the [ROS master](http://wiki.ros.org/Maste) computer is suddenly turned off due to the undesirable situations such as strong collision or static, rosbag node does not create .bag file.
-Instead, .bag.active file is automatically created, which means that the *rosbag* process is unexpectedly terminated. 
-Since the .bag.active file cannot be read by the data analysis programs such as MATLAB, it is necessary to recover .bag file.
+* Operating System: Ubuntu 18.04, 64 bits
+* ROS version: melodic
 
 ## Procedure
+### Installing Arduino IDE on Ubuntu
+At first, download the appropriate version of .tar.gz file on your desired folder from [Arduino IDE](https://www.arduino.cc/en/software)  (usually on *Download* folder). 
+
+Then, unzip the downloaded .tar.gz file as follows:
+<pre>
+<code>
+tar -xf arduino-1.x.xx-linux64.tar.gz
+</code>
+</pre>
+
+
+You can install [Arduino IDE](https://www.arduino.cc/en/software) on Ubuntu via terminal as follows:
+
+
+### Installing ROS-Arduino serial message communication package 
+You can install [Arduino IDE](https://www.arduino.cc/en/software) on Ubuntu via terminal as follows:
+<pre>
+<code>
+sudo apt-get install ros-indigo-rosserial-arduino
+sudo apt-get install ros-indigo-rosserial
+</code>
+</pre>
+where indigo means your ROS version. In my case,
+<pre>
+<code>
+sudo apt-get install ros-melodic-rosserial-arduino
+sudo apt-get install ros-melodic-rosserial
+</code>
+</pre>
+
+### Environment setting
+
+
+### Hello
 Recovery process is actually simple.
 If the created .bag.active file's name is &&&& and the name of .bag file that you want to create it ####, the entire process is shown as below.
 <pre>
@@ -22,5 +59,8 @@ rosbag fix &&&&.bag.active ####.bag
 </pre>
 Then, .bag file named #### is created in the same folder.
 
+## Example
+
 ## Reference
-https://answers.ros.org/question/378372/bagactive-file-creating/
+https://www.arduino.cc/en/hardware
+http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
