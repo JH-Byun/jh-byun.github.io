@@ -25,12 +25,18 @@ tar -xf arduino-1.x.xx-linux64.tar.gz
 </code>
 </pre>
 
+On the upzipped folder, proceed to install Arduino IDE as follows:
+<pre>
+<code>
+cd arduino-1.x.xx
+sudo ./install.sh
+sudo chown $USER_NAME arduino
+</code>
+</pre>
+where $USER_NAME represents the name of your computer.
 
-You can install [Arduino IDE](https://www.arduino.cc/en/software) on Ubuntu via terminal as follows:
-
-
-### Installing ROS-Arduino serial message communication package 
-You can install [Arduino IDE](https://www.arduino.cc/en/software) on Ubuntu via terminal as follows:
+### Environment setting
+You can install the package which is utilized for converting serial messages generated from Arduino board to ROS message type as follows:
 <pre>
 <code>
 sudo apt-get install ros-indigo-rosserial-arduino
@@ -45,19 +51,17 @@ sudo apt-get install ros-melodic-rosserial
 </code>
 </pre>
 
-### Environment setting
-
-
-### Hello
-Recovery process is actually simple.
-If the created .bag.active file's name is &&&& and the name of .bag file that you want to create it ####, the entire process is shown as below.
+Then, download *ros_lib* library to ubuntu folder as follows:
 <pre>
 <code>
-rosbag reindex &&&&.bag.active
-rosbag fix &&&&.bag.active ####.bag
+cd /path/to/arduino/libraries
+rm -rf ros_lib
+rosrun rosserial_arduino make_libraries.py
 </code>
 </pre>
-Then, .bag file named #### is created in the same folder.
+
+### Executing some example sketches
+With your arduino board connected, open your arduino IDE by typing *arduino* on your terminal.
 
 ## Example
 
