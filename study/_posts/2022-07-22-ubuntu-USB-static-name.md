@@ -23,7 +23,7 @@ For the explanation, I will use "/dev/ttyUSB0" as an example of a kernel's name.
 Connect the USB device again, and type the following command.
 <pre>
 <code>
-udevadm info ==name=/dev/ttyUSB0 --attribute-walk
+udevadm info --name=/dev/ttyUSB0 --attribute-walk
 </code>
 </pre>
 On your terminal, the *Udevadm* information is shown.
