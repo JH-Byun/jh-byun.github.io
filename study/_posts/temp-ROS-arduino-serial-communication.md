@@ -61,10 +61,62 @@ rosrun rosserial_arduino make_libraries.py
 </pre>
 
 ### Executing some example sketches
-With your arduino board connected, open your arduino IDE by typing *arduino* on your terminal.
+With your arduino board connected, open your arduino IDE by typing *arduino* on your terminal. The following window will be opened:
+<p>
+<center><img src="/images/tumbnails/arduino_IDE_image.PNG" width="420" height="500"></center>
+</a></p>
+Then, check the settings of "Board" and "Port" in "tools" located at the toolbar. <br>
 
-## Example
+Let's assume that you are receiving an analog signal through A0 from a sensor (e.g., voltage sensor) and send it as a ROS topic message std_msgs/UInt16, you first write the following code on the arduino IDE.
+<pre>
+<code>
+#include <ros.h>
+#include <std_msgs/UInt16.h>
+
+ros::NodeHandle nh;
+
+int sensorPin = A0; 
+int sensorValue = 0;  // variable to store the value coming from the sensor
+
+std_msgs::UInt16 signal;
+ros::Publihser signal_pub("/signal", &signal)
+void setup() {
+  // declare the ledPin as an OUTPUT:
+  pinMode(ledPin, OUTPUT);
+  // set baud rate as 57600
+  Serial.begin(57600)
+}
+
+void loop() {
+  // read the value from the sensor:
+  sensorValue = analogRead(sensorPin);
+  
+  // publish the ROS topic
+  nh.initNode();
+  signal_pub.data = sensorValue;
+  nh.advertise(signal_pub);
+  
+  // stop the program for 10 milliseconds:
+  delay(10);
+}
+</code>
+</pre>
+Click on the "check" symbol to check whether there is a grammar issue or not, then click on "upward" symbol to upload the code to your board. 
+
+Then, turn on your at least two terminal windows, then type the following commands:
+<pre>
+<code>
+roscore
+</code>
+</pre>
+<pre>
+<code>
+rosrun rosserial_python serial_node.py _port:=/dev/ttyUSB0 _baud:=57600
+</code>
+</pre>
+
+Finally, check whether your topic is published via rostopic pub.
 
 ## Reference
-https://www.arduino.cc/en/hardware
+https://www.arduino.cc/en/hardware <br>
 http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
