@@ -120,7 +120,9 @@ gallery-paris-3:
 
 {% include base_path %}
 
-## IROS 2022, Kansai (Kyoto, Osaka, Nara)
+## CDC 2022, Cancún, México
+
+## IROS 2022, Kansai (Kyoto, Osaka, Nara), Japan
 
 {% include gallery id="gallery-iros2022-1" caption="" %}
 {% include gallery id="gallery-iros2022-2" caption="" %}
