@@ -2,6 +2,26 @@
 layout: single
 author_profile: true
 
+gallery-iros2022-1:
+  - url: photography/iros2022/iros2022 - 1.jpg
+    image_path: photography/iros2022/iros2022 - 1.jpg
+    alt: "In front of Kyoto ICC garden"
+    
+gallery-iros2022-2:
+  - url: photography/iros2022/iros2022 - 2.jpg
+    image_path: photography/iros2022/iros2022 - 2.jpg
+    alt: "Kyoto ICC entrance"
+    
+gallery-iros2022-3:
+  - url: photography/iros2022/iros2022 - 3.jpg
+    image_path: photography/iros2022/iros2022 - 3.jpg
+    alt: "Deer in Nara"
+
+gallery-iros2022-4:
+  - url: photography/iros2022/iros2022 - 4.jpg
+    image_path: photography/iros2022/iros2022-4.jpg
+    alt: "Kiyomizudera in Kyoto"
+    
 gallery-london2022-1:
   - url: photography/london2022/london2022-1.jpg
     image_path: photography/london2022/london2022-1.jpg
@@ -99,6 +119,13 @@ gallery-paris-3:
 ---
 
 {% include base_path %}
+
+## IROS 2022, Kansai (Kyoto, Osaka, Nara)
+
+{% include gallery id="gallery-iros2022-1" caption="" %}
+{% include gallery id="gallery-iros2022-2" caption="" %}
+{% include gallery id="gallery-iros2022-3" caption="" %}
+{% include gallery id="gallery-iros2022-4" caption="" %}
 
 ## Personal travel, London, UK
 
