@@ -1,7 +1,7 @@
 ---
 title: "Stable contact guaranteeing motion/force control for an aerial manipulator on an arbitrarily tilted surface"
 header:
-  teaser: header/publication_header.png
+  teaser: header/publication_header.PNG
 conference: IROS
 authors: <u>Jeonghyun Byun</u>, Dongjae Lee, Hoseong Seo, Inkyu Jang, Jeongjun Choi, and H. Jin Kim
 links:
@@ -16,7 +16,7 @@ comment: true
 {% include base_path %}
 
 
-<center><img src="/images/header/publication_header.png" width="649" height="369"></center>
+<center><img src="/images/header/publication_header.PNG width="649" height="369"></center>
 
 
 ## Bibtex <a id="bibtex"></a>
