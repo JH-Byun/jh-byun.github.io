@@ -19,7 +19,7 @@ gallery-iros2022-3:
 
 gallery-iros2022-4:
   - url: photography/iros2022/iros2022 - 4.jpg
-    image_path: photography/iros2022/iros2022-4.jpg
+    image_path: photography/iros2022/iros2022 - 4.jpg
     alt: "Kiyomizudera in Kyoto"
     
 gallery-london2022-1:
