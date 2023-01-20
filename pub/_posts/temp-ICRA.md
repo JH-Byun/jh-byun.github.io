@@ -16,7 +16,7 @@ comment: true
 {% include base_path %}
 
 
-<center><img src="/images/header/publication_header.PNG width="649" height="369"></center>
+<center><img src="/images/header/publication_header.PNG" width="649" height="369"></center>
 
 
 ## Bibtex <a id="bibtex"></a>
