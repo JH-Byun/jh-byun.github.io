@@ -2,6 +2,31 @@
 layout: single
 author_profile: true
 
+gallery-cdc2022-1:
+  - url: photography/cdc2022/cdc2022-1.jpg
+    image_path: photography/cdc2022/cdc2022-1.jpg
+    alt: "J&W Marriot Hotel and Resort - CDC - 1"
+    
+gallery-cdc2022-2:
+  - url: photography/cdc2022/cdc2022-2.jpg
+    image_path: photography/cdc2022/cdc2022-2.jpg
+    alt: "J&W Marriot Hotel and Resort - CDC - 2"
+    
+gallery-cdc2022-3:
+  - url: photography/cdc2022/cdc2022-3.jpg
+    image_path: photography/cdc2022/cdc2022-3.jpg
+    alt: "Chitzen Itza - El Castillo"
+
+gallery-cdc2022-4:
+  - url: photography/cdc2022/cdc2022-4.jpg
+    image_path: photography/cdc2022/cdc2022-4.jpg
+    alt: "Pool in the hotel"
+    
+gallery-cdc2022-5:
+  - url: photography/cdc2022/cdc2022-5.jpg
+    image_path: photography/cdc2022/cdc2022-5.jpg
+    alt: "Pink Lagoon"
+    
 gallery-iros2022-1:
   - url: photography/iros2022/iros2022 - 1.jpg
     image_path: photography/iros2022/iros2022 - 1.jpg
@@ -121,6 +146,12 @@ gallery-paris-3:
 {% include base_path %}
 
 ## CDC 2022, Cancún, México
+
+{% include gallery id="gallery-cdc2022-1" caption="" %}
+{% include gallery id="gallery-cdc2022-2" caption="" %}
+{% include gallery id="gallery-cdc2022-3" caption="" %}
+{% include gallery id="gallery-cdc2022-4" caption="" %}
+{% include gallery id="gallery-cdc2022-5" caption="" %}
 
 ## IROS 2022, Kansai (Kyoto, Osaka, Nara), Japan
 
