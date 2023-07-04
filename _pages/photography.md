@@ -208,7 +208,7 @@ gallery-paris-3:
 {% include gallery id="gallery-jeju-1" caption="" %}
 {% include gallery id="gallery-jeju-2" caption="" %}
 
-## Emirates Stadium, London, UK
+## Emirates Stadium, London, United Kingdom
 
 {% include gallery id="gallery-emirates-stadium" caption="" %}
 
