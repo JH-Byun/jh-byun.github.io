@@ -2,6 +2,26 @@
 layout: single
 author_profile: true
 
+gallery-icra2023-1:
+  - url: photography/icra2023/icra2023-1.jpg
+    image_path: photography/icra2023/icra2023-1.jpg
+    alt: "ICRA 2023"
+    
+gallery-icra2023-2:
+  - url: photography/icra2023/icra2023-2.jpg
+    image_path: photography/icra2023/icra2023-2.jpg
+    alt: "Boston Dynamics"
+    
+gallery-icra2023-3:
+  - url: photography/icra2023/icra2023-3.jpg
+    image_path: photography/icra2023/icra2023-3.jpg
+    alt: "Main posters"
+
+gallery-icra2023-4:
+  - url: photography/icra2023/icra2023-4.jpg
+    image_path: photography/icra2023/icra2023-4.jpg
+    alt: "London tour"
+
 gallery-ksas2023-1:
   - url: photography/ksas2023/jeju2023-1.jpg
     image_path: photography/ksas2023/jeju2023-1.jpg
@@ -139,6 +159,13 @@ gallery-paris-3:
 ---
 
 {% include base_path %}
+
+## ICRA 2023, London, United Kingdom
+
+{% include gallery id="gallery-icra2023-1" caption="" %}
+{% include gallery id="gallery-icra2023-2" caption="" %}
+{% include gallery id="gallery-icra2023-3" caption="" %}
+{% include gallery id="gallery-icra2023-4" caption="" %}
 
 ## KSAS 2023, Jeju island, Korea Rep.
 
