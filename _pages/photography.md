@@ -2,6 +2,26 @@
 layout: single
 author_profile: true
 
+gallery-ksas2023-1:
+  - url: photography/ksas2023/jeju2023-1.jpg
+    image_path: photography/ksas2023/jeju2023-1.jpg
+    alt: "A Gazebo nearby the river"
+    
+gallery-ksas2023-2:
+  - url: photography/ksas2023/jeju2023-2.jpg
+    image_path: photography/ksas2023/jeju2023-2.jpg
+    alt: "Dragonhead coast"
+    
+gallery-ksas2023-3:
+  - url: photography/ksas2023/jeju2023-3.jpg
+    image_path: photography/ksas2023/jeju2023-3.jpg
+    alt: "KSAS - presenting my poster"
+
+gallery-ksas2023-4:
+  - url: photography/ksas2023/jeju2023-4.jpg
+    image_path: photography/ksas2023/jeju2023-4.jpg
+    alt: "Cafe nearby the coast"
+
 gallery-cdc2022-1:
   - url: photography/cdc2022/cdc2022-1.jpg
     image_path: photography/cdc2022/cdc2022-1.jpg
