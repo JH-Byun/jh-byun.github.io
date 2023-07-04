@@ -2,6 +2,21 @@
 layout: single
 author_profile: true
 
+gallery-parrot2023-1:
+  - url: photography/parrot2023/parrot2023-1.jpg
+    image_path: photography/parrot2023/parrot2023-1.jpg
+    alt: "Drone company - Parrot"
+    
+gallery-parrot2023-2:
+  - url: photography/parrot2023/parrot2023-2.jpg
+    image_path: photography/parrot2023/parrot2023-2.jpg
+    alt: "Eiffel tower and Triumph d'Arc"
+    
+gallery-parrot2023-3:
+  - url: photography/parrot2023/parrot2023-3.jpg
+    image_path: photography/parrot2023/parrot2023-3.jpg
+    alt: "Paris tour"
+    
 gallery-icra2023-1:
   - url: photography/icra2023/icra2023-1.jpg
     image_path: photography/icra2023/icra2023-1.jpg
@@ -159,6 +174,12 @@ gallery-paris-3:
 ---
 
 {% include base_path %}
+
+## Visit to Parrot 2023, Paris, France
+
+{% include gallery id="gallery-parrot2023-1" caption="" %}
+{% include gallery id="gallery-parrot2023-2" caption="" %}
+{% include gallery id="gallery-parrot2023-3" caption="" %}
 
 ## ICRA 2023, London, United Kingdom
 
