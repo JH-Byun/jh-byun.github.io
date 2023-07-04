@@ -2,6 +2,16 @@
 layout: single
 author_profile: true
 
+gallery-icros2023-1:
+  - url: photography/icros2023/icros2023-1.jpg
+    image_path: photography/icros2023/icros2023-1.jpg
+    alt: "Samcheock beaches"
+    
+gallery-icros2023-2:
+  - url: photography/icros2023/icros2023-2.jpg
+    image_path: photography/icros2023/icros2023-2.jpg
+    alt: "East coast foods"
+
 gallery-parrot2023-1:
   - url: photography/parrot2023/parrot2023-1.jpg
     image_path: photography/parrot2023/parrot2023-1.jpg
@@ -174,6 +184,11 @@ gallery-paris-3:
 ---
 
 {% include base_path %}
+
+## ICROS 2023, Samcheock, Korea Rep.
+
+{% include gallery id="gallery-icros2023-1" caption="" %}
+{% include gallery id="gallery-icros2023-2" caption="" %}
 
 ## Visit to Parrot 2023, Paris, France
 
