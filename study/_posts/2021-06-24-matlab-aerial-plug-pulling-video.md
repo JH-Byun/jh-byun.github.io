@@ -12,4 +12,4 @@ Currently, I am conducting the research on the aerial plug-pulling task which en
   </video></center>
 </figure>
 
-Source code was already uploaded on my private Github repository (https://github.com/JH-Byun) but it will be soon released to the publics.
+Source code is uploaded on my private Github repository (https://github.com/JH-Byun).
