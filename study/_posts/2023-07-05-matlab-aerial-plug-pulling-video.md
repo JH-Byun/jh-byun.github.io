@@ -12,4 +12,4 @@ Currently, I am conducting the research on the aerial plug-pulling task which en
   </video></center>
 </figure>
 
-Source code is uploaded on my private Github repository (https://github.com/JH-Byun).
+Source code of a MATLAB simulation based on <a href="https://jh-byun.github.io/pub/ICCAS/">[2021, ICCAS, Byun]</a> is uploaded on my private <a href="https://github.com/JH-Byun/aerial_manipulator_with_a_fixed_end-effector_position-matlab">Github repository</a>.
