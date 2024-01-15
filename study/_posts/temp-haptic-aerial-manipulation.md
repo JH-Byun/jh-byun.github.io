@@ -6,6 +6,11 @@ Aerial manipulation is one of the rising topics which can simultaneously leverag
 
 Haptic-based aerial manipulation
 
+## Central problems
+### 1. A
+
+### 2. B
+
 <figure class="video_container">
     <center><video width = "700" height="500" controls="true" allowfullscreen="true" poster="">
     <source src="/videos/main_proposed.mp4" type="video/mp4">
