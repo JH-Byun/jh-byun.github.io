@@ -14,9 +14,15 @@ The worker performing the task can leverage the haptic feedback assessment of ob
 Drilling: People generally use their sense of touch when drilling.
 
 ## Central problems
-### 1. A
+### 1. Beyond haptics - Sound, smell, temperature and vision
 
-### 2. B
+### 2. Technical challenges
+
+Communication time delays
+
+Packet loss 
+
+Jitters
 
 <figure class="video_container">
     <center><video width = "700" height="500" controls="true" allowfullscreen="true" poster="">
