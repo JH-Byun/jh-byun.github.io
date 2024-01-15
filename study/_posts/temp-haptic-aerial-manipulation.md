@@ -18,11 +18,13 @@ Drilling: People generally use their sense of touch when drilling.
 
 ### 2. Technical challenges
 
-Communication time delays
+Communication issue: Time delays, Packet loss, Jitters -> Can be solved by Time Domain Passivity Approach (TDPA)
 
-Packet loss 
+### 3. Implementation of the virtual fixtures
 
-Jitters
+Virtual fixtures are implemented as artificial wall that guide the motion of the slave to the desired target point.
+
+If the teleoperator tries to move the slave device outside these walls, artificial forces are activated to limit the motion of TCP (slave) and also to provide haptic feedback to the teleoperator.
 
 <figure class="video_container">
     <center><video width = "700" height="500" controls="true" allowfullscreen="true" poster="">
