@@ -14,13 +14,13 @@ I am currently working with <a href="https://dongjaelee95.github.io/" target="_b
 ## Recent Updates
 
 #### May 2024
-I will orally present my T-ASE work at ICRA 2024 held in Yokohama, Japan.
+I will orally present my T-ASE work on transient performance-enhancing hybrid control of an aerial manipulator extracting a wedged object [<a href="https://jh-byun.github.io/pub/T-ASE/">1</a>] at ICRA 2024 held in Yokohama, Japan.
  
 #### November 2023
 I presented my work on controller design for the precise aerial force-tracking task at ICCAS 2023 held in Yeosu, Korea.
 
 #### May 2023
-I presented my research on stable contact guaranteeing hybrid motion/force control of an aerial manipulator at ICRA 2023 held in London, UK.
+I presented my research on stable contact guaranteeing hybrid motion/force control of an aerial manipulator [<a href="https://jh-byun.github.io/pub/ICRA/">1</a>] at ICRA 2023 held in London, UK.
 
 ## Purpose of Posting
 As a graduate student, I am going to share our publications on <a href="https://jh-byun.github.io/_pages/pub/index.html">PUBLICATIONS</a> tab whenever our research team publish a paper to conferences or journals and our team's open projects on <a href="https://jh-byun.github.io/_pages/pub/index.html">STUDY</a> tab. Not only that, my daily life will be posted on <a href="https://jh-byun.github.io/_pages/blog/index.html">BLOG</a> tab and <a href="https://jh-byun.github.io/_pages/photography/index.html">PHOTOGRAPHY</a> tab to share my personal life, too.
