@@ -9,7 +9,7 @@ excerpt: "Developing the control and planning algorithm for aerial manipulation"
 ## Profile
 In Spring 2020, I joined <a href="https://larr.snu.ac.kr/" target="_blank">LARR (Laboratory for Autonomous Robotics Research)</a> in Seoul National University to pursue research in **aerial robotics**. My research interests in robotics are in **aerial manipulation** [<a href="https://jh-byun.github.io/pub/T-ASE/">1</a>].  
 
-I am currently working with <a href="https://dongjaelee95.github.io/" target="_blank">Dongjae Lee</a>, Byeongjun Kim, Sunwoo Hwang and Dohyun Eom.
+I am currently working with <a href="https://dongjaelee95.github.io/" target="_blank">Dongjae Lee</a>, Dohyun Eom and <a href="https://github.com/JunhaAgu" target="_blank">Junha Kim</a>.
 
 ## Recent Updates
 
