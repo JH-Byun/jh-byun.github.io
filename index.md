@@ -17,7 +17,7 @@ I am currently working with <a href="https://dongjaelee95.github.io/" target="_b
 I will orally present my work on haptic-based bilateral teleoperation of an aerial manipulator for extracting a wedged object with the compensation of human reaction time at ICUAS 2024 held in Χανιά (Chania), Crete, Greece.
 
 #### May 2024
-I will orally present my T-ASE work on transient performance-enhancing hybrid control of an aerial manipulator extracting a wedged object [<a href="https://jh-byun.github.io/pub/T-ASE/">1</a>] at ICRA 2024 held in Yokohama, Japan.
+I will orally present my T-ASE work on transient performance-enhancing hybrid control of an aerial manipulator extracting a wedged object [<a href="https://jh-byun.github.io/pub/T-ASE/">1</a>] at ICRA 2024 held in 横浜 (Yokohama), Japan.
  
 #### November 2023
 I presented my work on controller design for the precise aerial force-tracking task at ICCAS 2023 held in Yeosu, Korea.
