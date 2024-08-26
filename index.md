@@ -17,7 +17,7 @@ I am currently working with <a href="https://dongjaelee95.github.io/" target="_b
 I will orally present my RA-L work on "Image-Based Time-Varying Contact Force Control of Aerial Manipulator using Robust Impedance Filter"[<a href="https://jh-byun.github.io/pub/RAL/">3</a>]  at IROS 2024 held in أَبُو ظَبِي (Abu Dhabi), UAE. 
 
 #### June 2024
-I orally presented my work on haptic-based bilateral teleoperation of an aerial manipulator for extracting a wedged object with the compensation of human reaction time at ICUAS 2024 held in Χανιά (Chania), Crete, Greece.
+I orally presented my work on haptic-based bilateral teleoperation of an aerial manipulator for extracting a wedged object with the compensation of human reaction time [<a href="https://jh-byun.github.io/pub/ICUAS/">2</a>] at ICUAS 2024 held in Χανιά (Chania), Crete, Greece.
 
 #### May 2024
 I orally presented my T-ASE work on transient performance-enhancing hybrid control of an aerial manipulator extracting a wedged object [<a href="https://jh-byun.github.io/pub/T-ASE/">1</a>] at ICRA 2024 held in 横浜 (Yokohama), Japan.
