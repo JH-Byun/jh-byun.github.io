@@ -7,6 +7,11 @@ gallery-iros2024:
     image_path: photography/iros2024.png
     alt: "Memories in IROS 2024"
 
+gallery-icuas2024:
+  - url: photography/icuas2024.png
+    image_path: photography/icuas2024.png
+    alt: "Memories in ICUAS 2024"
+
 gallery-icra2024:
   - url: photography/icra24_for_personal_webpage.png
     image_path: photography/icra24_for_personal_webpage.png
@@ -205,6 +210,8 @@ gallery-paris-3:
 {% include gallery id="gallery-iros2024" caption="" %}
 
 ## ICUAS 2024, Chania, Crete, Greece
+
+{% include gallery id="gallery-icuas2024" caption="" %}
 
 ## ICRA 2024, Yokohama, Japan
 
