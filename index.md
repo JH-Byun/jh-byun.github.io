@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 header:
   overlay_image: header/header_2.jpg
-excerpt: "Developing the control and planning algorithm for aerial manipulation"
+excerpt: "Robotics & Drone Engineer"
 ---
 
 ## Profile
