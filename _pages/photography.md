@@ -12,6 +12,11 @@ gallery-icra2024:
     image_path: photography/icra24_for_personal_webpage.png
     alt: "Memories in ICRA 2024"
 
+gallery-rennes2024:
+  - url: photography/rennes_talk_2024.png
+    image_path: photography/rennes_talk_2024.png
+    alt: "Memories in Inria Rennes Talk 2024"
+
 gallery-icros2023-1:
   - url: photography/icros2023/icros2023-1.jpg
     image_path: photography/icros2023/icros2023-1.jpg
@@ -206,6 +211,8 @@ gallery-paris-3:
 {% include gallery id="gallery-icra2024" caption="" %}
 
 ## Visit to Inria Rennes, Rennes, France
+
+{% include gallery id="gallery-rennes2024" caption="" %}
 
 ## ICROS 2023, Samcheock, Korea Rep.
 
