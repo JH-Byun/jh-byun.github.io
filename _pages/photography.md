@@ -2,6 +2,11 @@
 layout: single
 author_profile: true
 
+gallery-iros2024:
+  - url: photography/iros2024.png
+    image_path: photography/iros2024.png
+    alt: "Memories in IROS 2024"
+
 gallery-icra2024:
   - url: photography/icra24_for_personal_webpage.png
     image_path: photography/icra24_for_personal_webpage.png
@@ -190,9 +195,17 @@ gallery-paris-3:
 
 {% include base_path %}
 
+## IROS 2024, Abu Dhabi, UAE
+
+{% include gallery id="gallery-iros2024" caption="" %}
+
+## ICUAS 2024, Chania, Crete, Greece
+
 ## ICRA 2024, Yokohama, Japan
 
 {% include gallery id="gallery-icra2024" caption="" %}
+
+## Visit to Inria Rennes, Rennes, France
 
 ## ICROS 2023, Samcheock, Korea Rep.
 
