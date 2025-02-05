@@ -7,7 +7,8 @@ excerpt: "Developing the control and planning algorithm for aerial manipulation"
 ---
 
 ## Profile
-I'm actively seeking a PostDoc position abroad, starting in March 2026, in the field of robotics and drone engineering [<a href="https://jh-byun.github.io/pub/ICRA25/">3</a>]. Currently, I am working as a PostDoc at ASRI (Automation and Systems Research Institute) as part of my alternative military service as a technical research personnel with <a href="https://larr.snu.ac.kr/" target="_blank">LARR (Laboratory for Autonomous Robotics Research)</a>.
+I'm actively seeking a PostDoc position abroad, starting in March 2026, in the field of robotics and drone engineering [<a href="https://jh-byun.github.io/pub/ICRA25/">3</a>]. <br>
+Currently, I am working as a PostDoc at ASRI (Automation and Systems Research Institute) as part of my alternative military service as a technical research personnel with <a href="https://larr.snu.ac.kr/" target="_blank">LARR (Laboratory for Autonomous Robotics Research)</a>.
 
 ## Recent Updates
 
