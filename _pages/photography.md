@@ -2,6 +2,11 @@
 layout: single
 author_profile: true
 
+gallery-icra2024:
+  - url: photography/icra24_for_personal_webpage.png
+    image_path: photography/icra24_for_personal_webpage.png
+    alt: "Memories in ICRA 2024"
+
 gallery-icros2023-1:
   - url: photography/icros2023/icros2023-1.jpg
     image_path: photography/icros2023/icros2023-1.jpg
@@ -184,6 +189,10 @@ gallery-paris-3:
 ---
 
 {% include base_path %}
+
+## ICRA 2024, Yokohama, Japan
+
+{% include gallery id="gallery-icra2024" caption="" %}
 
 ## ICROS 2023, Samcheock, Korea Rep.
 
