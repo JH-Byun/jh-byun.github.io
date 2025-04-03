@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  overlay_image: header/header_2.jpg
+  overlay_image: header/linkedin_banner.png
 excerpt: "Robotics & Drone Engineer"
 ---
 
