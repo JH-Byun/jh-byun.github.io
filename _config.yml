@@ -108,7 +108,7 @@ author:
   weibo            :
   xing             :
   youtube          : #"AeternusLSI"
-  resume           : "research_statement/Research_Statement_250611.pdf"
+  resume           : # "research_statement/Research_Statement_250611.pdf"
   cv               : "CV_2025_06_10.pdf"
 
 
