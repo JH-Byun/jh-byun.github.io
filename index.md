@@ -10,6 +10,8 @@ excerpt: "Robotics & Drone Engineer"
 I'm actively seeking a PostDoc position abroad, starting in March 2026, in the field of robotics and drone engineering [<a href="https://jh-byun.github.io/pub/ICRA25/">3</a>]. <br>
 Currently, I am working as a PostDoc at ASRI (Automation and Systems Research Institute) as part of my alternative military service as a technical research personnel with <a href="https://larr.snu.ac.kr/" target="_blank">LARR (Laboratory for Autonomous Robotics Research)</a>.
 
+**Research statement** can be found <a href="https://jh-byun.github.io/download/research_statement/Research_Statement_250611.pdf">here</a>.
+
 ## Recent Updates
 
 #### May 2025
