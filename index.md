@@ -13,7 +13,7 @@ Currently, I am working as a PostDoc at ASRI (Automation and Systems Research In
 ## Recent Updates
 
 #### May 2025
-I will orally present my conference proceeding on "Safety-Critical Control for Aerial Physical Interaction in Uncertain Environment"[<a href="https://jh-byun.github.io/pub/ICRA25/">3</a>] at ICRA 2025 held in Atlanta, USA. 
+I orally presented my conference proceeding on "Safety-Critical Control for Aerial Physical Interaction in Uncertain Environment"[<a href="https://jh-byun.github.io/pub/ICRA25/">3</a>] at ICRA 2025 held in Atlanta, USA. 
 
 #### October 2024
 I orally presented my RA-L work on "Image-Based Time-Varying Contact Force Control of Aerial Manipulator using Robust Impedance Filter"[<a href="https://jh-byun.github.io/pub/RAL24/">2</a>] at IROS 2024 held in أَبُو ظَبِي (Abu Dhabi), UAE. 
