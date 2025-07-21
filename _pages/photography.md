@@ -210,7 +210,7 @@ gallery-paris-3:
 
 {% include base_path %}
 
-## IROS 202%, Atlanta, Georgia, USA
+## IROS 2025, Atlanta, Georgia, USA
 
 {% include gallery id="gallery-icra2025" caption="" %}
 
