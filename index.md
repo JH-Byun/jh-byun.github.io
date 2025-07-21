@@ -9,7 +9,7 @@ excerpt: "Robotics & Drone Engineer"
 ## Profile
 **I'm actively seeking a PostDoc position abroad, starting in March 2026, in the field of robotics and drone engineering.** Currently, I am working as a PostDoc at ASRI (Automation and Systems Research Institute) as part of **my alternative military service as a technical research personnel** with <a href="https://larr.snu.ac.kr/" target="_blank">LARR (Laboratory for Autonomous Robotics Research)</a>. 
 
-The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2025_06_10.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_250721.pdf) for more information.
+**The main results of my research** are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2025_06_10.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_250721.pdf) for more information.
 <table>
     <tr>
       <td align="center" width="50%">
@@ -18,7 +18,7 @@ The main results of my research are shown below, and please refer to my [**CV**]
             <source src="/videos/byun2025icra_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
-          <br/> (Byun et al., 2025, ICRA) Safety-critical control for aerial physical interaction in uncertain environment
+          <br/> Saturation-Aware Aerial Manipulation Control
         </a>
       </td>
       <td align="center" width="50%">
@@ -27,7 +27,27 @@ The main results of my research are shown below, and please refer to my [**CV**]
             <source src="/videos/byun2024ral_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
-          <br/> (Byun et al., 2024, RA-L) Image-based time-varying contact force control of aerial manipulator using robust impedance filter
+          <br/> Image-Based Aerial Force-Tracking Control 
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://jh-byun.github.io/pub/LEEICRA24/" target="_blank">
+          <video style="border: none; box-shadow: none;" width="400" controls>
+            <source src="/videos/lee2024icra_video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+          <br/> Omnidirectional Tiltrotor 
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://jh-byun.github.io/pub/T-ASE23/" target="_blank">
+          <video style="border: none; box-shadow: none;" width="400" controls>
+            <source src="/videos/byun2023tase_video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+          <br/> Plug-pulling with Aerial Manipulator
         </a>
       </td>
     </tr>
