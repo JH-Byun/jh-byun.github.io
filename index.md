@@ -17,6 +17,20 @@ excerpt: "Robotics & Drone Engineer"
   </video></center>
 </figure>
 
+<table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://jh-byun.github.io/pub/ICRA25/" target="_blank">
+          <video width="300" controls>
+            <source src="/videos/byun2025icra_video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+          <br/> [2025, ICRA]
+        </a>
+      </td>
+    </tr>
+</table>
+
 ## Recent Updates
 
 **May 2025:** I orally presented my conference proceeding on "Safety-critical control for aerial physical interaction in uncertain environment"[<a href="https://jh-byun.github.io/pub/ICRA25/">3</a>] at ICRA 2025 held in Atlanta, USA. 
