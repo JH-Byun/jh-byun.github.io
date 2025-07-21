@@ -15,20 +15,20 @@ excerpt: "Robotics & Drone Engineer"
     <tr>
       <td align="center" width="50%">
         <a href="https://jh-byun.github.io/pub/ICRA25/" target="_blank">
-          <video width="300" controls>
+          <video style="border: none; box-shadow: none;" width="300" controls>
             <source src="/videos/byun2025icra_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
-          <br/> [2025, ICRA] Safety-critical ccontrol for aerial physical interaction in uncertain environment
+          <br/> (Byun et al., 2025, ICRA) Safety-critical ccontrol for aerial physical interaction in uncertain environment
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://jh-byun.github.io/pub/RAL24/" target="_blank">
-          <video width="300" controls>
+          <video style="border: none; box-shadow: none;" width="300" controls>
             <source src="/videos/byun2025icra_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
-          <br/> [2024, RA-L] Image-based time-varying contact force control of aerial manipulator using robust impedance filter
+          <br/> (Byun et al., 2024, RA-L) Image-based time-varying contact force control of aerial manipulator using robust impedance filter
         </a>
       </td>
     </tr>
