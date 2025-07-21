@@ -25,10 +25,8 @@ excerpt: "Robotics & Drone Engineer"
 
 **June 2024:** I orally presented my work on haptic-based bilateral teleoperation of an aerial manipulator for extracting a wedged object with the compensation of human reaction time [<a href="https://jh-byun.github.io/pub/ICUAS24/">1</a>] at ICUAS 2024 held in Χανιά (Chania), Crete, Greece.
 
+## Always Open to Work!
+If you are interested in **fully autonomous aerial manipulation**, you can look around our publications and open projects to find an inspiration. Also, **you can also contact me** using various ways, such as e-mail, facebook, instagram, etc., to discuss the relevant topics.
+
 ## Purpose of Posting
-As a PostDoc research, I am going to share our publications on <a href="https://jh-byun.github.io/_pages/pub/index.html">PUBLICATIONS</a> tab whenever our team publish a paper to conferences or journals and our team's open projects on <a href="https://jh-byun.github.io/_pages/pub/index.html">STUDY</a> tab. Not only that, my daily life will be posted on <a href="https://jh-byun.github.io/_pages/blog/index.html">BLOG</a> tab and <a href="https://jh-byun.github.io/_pages/photography/index.html">PHOTOGRAPHY</a> tab to share my personal life, too.
-
-## Will it be helpful for you?
-If you are interested in the design of stable and safe operation strategy for aerial physical interaction based on the concept of hybrid dynamical systems, you can look around our publications and open projects to find an inspiration. Also, you can also contact me using various ways, such as e-mail, facebook, instagram, etc., to discuss the relevant topics.
-
-In addition, I also want you to enjoy the photos which are uploaded on the <a href="https://jh-byun.github.io/_pages/photography/index.html">PHOTOGRAPHY</a> tab. Please feel free to visit my website!
+As a postdoctoral researcher, I am going to share our publications on <a href="https://jh-byun.github.io/_pages/pub/index.html">PUBLICATIONS</a> tab whenever our team publish a paper to conferences or journals and our team's open projects on <a href="https://jh-byun.github.io/_pages/pub/index.html">STUDY</a> tab. Not only that, my daily life will be posted on <a href="https://jh-byun.github.io/_pages/blog/index.html">BLOG</a> tab. I also want you to enjoy the photos which are uploaded on the <a href="https://jh-byun.github.io/_pages/photography/index.html">PHOTOGRAPHY</a> tab. Please feel free to visit my website!
