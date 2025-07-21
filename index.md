@@ -36,11 +36,11 @@ excerpt: "Robotics & Drone Engineer"
 
 ## Recent Updates
 
-**May 2025:** I orally presented my conference proceeding on "Safety-critical control for aerial physical interaction in uncertain environment"[<a href="https://jh-byun.github.io/pub/ICRA25/">3</a>] at ICRA 2025 held in Atlanta, USA. 
+**May 2025:** I orally presented my conference proceeding on ["Safety-critical control for aerial physical interaction in uncertain environment"](https://jh-byun.github.io/pub/ICRA25/) at ICRA 2025 held in Atlanta, USA. 
 
-**October 2024:** I orally presented my RA-L work on "Image-based time-varying contact force control of aerial manipulator using robust impedance filter"[<a href="https://jh-byun.github.io/pub/RAL24/">2</a>] at IROS 2024 held in أَبُو ظَبِي (Abu Dhabi), UAE. 
+**February 2025:**  I have earned my Ph.D. from the Department of Aerospace Engineering, Seoul National University College of Engineering under the guidance of my advisor, H. Jin Kim, with a dissertation titled ["Aerial Physical Interaction Strategy Considering Changes in Dynamics"](https://s-space.snu.ac.kr/handle/10371/220184).
 
-**June 2024:** I orally presented my work on haptic-based bilateral teleoperation of an aerial manipulator for extracting a wedged object with the compensation of human reaction time [<a href="https://jh-byun.github.io/pub/ICUAS24/">1</a>] at ICUAS 2024 held in Χανιά (Chania), Crete, Greece.
+**October 2024:** I orally presented my RA-L work on ["Image-based time-varying contact force control of aerial manipulator using robust impedance filter"](https://jh-byun.github.io/pub/RAL24/) at IROS 2024 held in أَبُو ظَبِي (Abu Dhabi), UAE. 
 
 ## Always Open to Work!
 If you are interested in **fully autonomous aerial manipulation**, you can look around our publications and open projects to find an inspiration. Also, **you can also contact me** using various ways, such as e-mail, facebook, instagram, etc., to discuss the relevant topics.
