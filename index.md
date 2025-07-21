@@ -19,7 +19,7 @@ excerpt: "Robotics & Drone Engineer"
             <source src="/videos/byun2025icra_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
-          <br/> (Byun et al., 2025, ICRA) Safety-critical ccontrol for aerial physical interaction in uncertain environment
+          <br/> (Byun et al., 2025, ICRA) Safety-critical control for aerial physical interaction in uncertain environment
         </a>
       </td>
       <td align="center" width="50%">
