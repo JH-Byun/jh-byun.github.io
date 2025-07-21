@@ -8,17 +8,17 @@ excerpt: "Robotics & Drone Engineer"
 
 ## Profile
 I'm actively seeking a PostDoc position abroad, starting in March 2026, in the field of robotics and drone engineering [<a href="https://jh-byun.github.io/pub/ICRA25/">3</a>]. <br>
-Currently, I am working as a PostDoc at ASRI (Automation and Systems Research Institute) as part of my alternative military service as a technical research personnel with <a href="https://larr.snu.ac.kr/" target="_blank">LARR (Laboratory for Autonomous Robotics Research)</a>.
+Currently, I am working as a PostDoc at ASRI (Automation and Systems Research Institute) as part of **my alternative military service as a technical research personnel** with <a href="https://larr.snu.ac.kr/" target="_blank">LARR (Laboratory for Autonomous Robotics Research)</a>.
 
 **Research statement** can be found <a href="https://jh-byun.github.io/download/research_statement/Research_Statement_250721.pdf">here</a>.
 
 ## Recent Updates
 
 #### May 2025
-I orally presented my conference proceeding on "Safety-Critical Control for Aerial Physical Interaction in Uncertain Environment"[<a href="https://jh-byun.github.io/pub/ICRA25/">3</a>] at ICRA 2025 held in Atlanta, USA. 
+I orally presented my conference proceeding on "Safety-critical control for aerial physical interaction in uncertain environment"[<a href="https://jh-byun.github.io/pub/ICRA25/">3</a>] at ICRA 2025 held in Atlanta, USA. 
 
 #### October 2024
-I orally presented my RA-L work on "Image-Based Time-Varying Contact Force Control of Aerial Manipulator using Robust Impedance Filter"[<a href="https://jh-byun.github.io/pub/RAL24/">2</a>] at IROS 2024 held in أَبُو ظَبِي (Abu Dhabi), UAE. 
+I orally presented my RA-L work on "Image-based time-varying contact force control of aerial manipulator using robust impedance filter"[<a href="https://jh-byun.github.io/pub/RAL24/">2</a>] at IROS 2024 held in أَبُو ظَبِي (Abu Dhabi), UAE. 
 
 #### June 2024
 I orally presented my work on haptic-based bilateral teleoperation of an aerial manipulator for extracting a wedged object with the compensation of human reaction time [<a href="https://jh-byun.github.io/pub/ICUAS24/">1</a>] at ICUAS 2024 held in Χανιά (Chania), Crete, Greece.
