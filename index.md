@@ -11,7 +11,11 @@ excerpt: "Robotics & Drone Engineer"
 
 **Research statement** can be found <a href="https://jh-byun.github.io/download/research_statement/Research_Statement_250721.pdf">here</a>.
 
-<center><img src="/images/tumbnails/homepage_thumbnail.png" width="1941" height="701"></center>
+<figure class="video_container">
+    <center><video width = "700" height="500" controls="true" allowfullscreen="true" poster="">
+    <source src="/videos/byun2025icra_video.mp4" type="video/mp4">
+  </video></center>
+</figure>
 
 ## Recent Updates
 
