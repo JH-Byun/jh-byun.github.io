@@ -2,6 +2,11 @@
 layout: single
 author_profile: true
 
+gallery-icra2025:
+  - url: photography/icra2025.png
+    image_path: photography/icra2025.png
+    alt: "Memories in ICRA 2025"
+
 gallery-iros2024:
   - url: photography/iros2024.png
     image_path: photography/iros2024.png
@@ -204,6 +209,10 @@ gallery-paris-3:
 ---
 
 {% include base_path %}
+
+## IROS 202%, Atlanta, Georgia, USA
+
+{% include gallery id="gallery-icra2025" caption="" %}
 
 ## IROS 2024, Abu Dhabi, UAE
 
