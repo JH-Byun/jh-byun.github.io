@@ -25,7 +25,7 @@ excerpt: "Robotics & Drone Engineer"
       <td align="center" width="50%">
         <a href="https://jh-byun.github.io/pub/RAL24/" target="_blank">
           <video style="border: none; box-shadow: none;" width="400" controls>
-            <source src="/videos/byun2025icra_video.mp4" type="video/mp4">
+            <source src="/videos/byun2024ral_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
           <br/> (Byun et al., 2024, RA-L) Image-based time-varying contact force control of aerial manipulator using robust impedance filter
@@ -36,11 +36,11 @@ excerpt: "Robotics & Drone Engineer"
 
 ## Recent Updates
 
-**May 2025:** I orally presented my conference proceeding on ["Safety-critical control for aerial physical interaction in uncertain environment"](https://jh-byun.github.io/pub/ICRA25/) at ICRA 2025 held in Atlanta, USA. 
+**May 2025:** I orally presented my conference proceeding on "Safety-critical control for aerial physical interaction in uncertain environment" at ICRA 2025 held in Atlanta, USA. 
 
-**February 2025:**  I have earned my Ph.D. from the Department of Aerospace Engineering, Seoul National University College of Engineering under the guidance of my advisor, H. Jin Kim, with a dissertation titled ["Aerial Physical Interaction Strategy Considering Changes in Dynamics"](https://s-space.snu.ac.kr/handle/10371/220184).
+**February 2025:**  I have earned my Ph.D. from the Department of Aerospace Engineering, Seoul National University College of Engineering under the guidance of my advisor, H. Jin Kim, with a dissertation titled "Aerial Physical Interaction Strategy Considering Changes in Dynamics".
 
-**October 2024:** I orally presented my RA-L work on ["Image-based time-varying contact force control of aerial manipulator using robust impedance filter"](https://jh-byun.github.io/pub/RAL24/) at IROS 2024 held in أَبُو ظَبِي (Abu Dhabi), UAE. 
+**October 2024:** I orally presented my RA-L work on "Image-based time-varying contact force control of aerial manipulator using robust impedance filter" at IROS 2024 held in أَبُو ظَبِي (Abu Dhabi), UAE. 
 
 ## Always Open to Work!
 If you are interested in **fully autonomous aerial manipulation**, you can look around our publications and open projects to find an inspiration. Also, **you can also contact me** using various ways, such as e-mail, facebook, instagram, etc., to discuss the relevant topics.
