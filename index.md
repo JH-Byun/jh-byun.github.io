@@ -34,7 +34,7 @@ excerpt: "Robotics & Drone Engineer"
     <tr>
       <td align="center" width="50%">
         <a href="https://jh-byun.github.io/pub/LEEICRA24/" target="_blank">
-          <video style="border: none; box-shadow: none;" width="400" controls>
+          <video style="border: none; box-shadow: none;" width="300" controls>
             <source src="/videos/lee2024Icra_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
