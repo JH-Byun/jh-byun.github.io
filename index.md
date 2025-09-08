@@ -55,11 +55,12 @@ I'm actively seeking a **PostDoc position abroad, starting in March 2026, in the
 
 ## Recent Updates
 
+**October 2025**: I will give a talk named "Aerial physical interaction strategy considering changes in dynamics" as an invited speaker at the [Workshop on Advanced Aerial Aobotics](http://www.dragon.t.u-tokyo.ac.jp/all-events/workshop-aar-2025/) held in Tokyo, Japan.
+
+**October 2025**: I will give a talk named "Safety-critical control of aerial physical interaction" as an invited speaker at [Advancements in 
+Aerial Physical Interaction (IROS 2025 Workshop)](https://sites.google.com/view/iros2025-aerialrobot-workshop/home) held in Hangzhou, the People's Republic of China.
+
 **May 2025:** I orally presented my conference proceeding on "Safety-critical control for aerial physical interaction in uncertain environment" at ICRA 2025 held in Atlanta, USA. 
-
-**February 2025:**  I have earned my Ph.D. from the Department of Aerospace Engineering, Seoul National University College of Engineering under the guidance of my advisor, H. Jin Kim, with a dissertation titled "Aerial Physical Interaction Strategy Considering Changes in Dynamics".
-
-**October 2024:** I orally presented my RA-L work on "Image-based time-varying contact force control of aerial manipulator using robust impedance filter" at IROS 2024 held in أَبُو ظَبِي (Abu Dhabi), UAE. 
 
 ## Always Open to Work!
 If you are interested in **fully autonomous aerial manipulation**, you can look around our publications and open projects to find an inspiration. Also, **you can also contact me** using various ways, such as e-mail, facebook, instagram, etc., to discuss the relevant topics.
