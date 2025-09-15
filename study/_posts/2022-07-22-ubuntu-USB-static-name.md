@@ -52,9 +52,11 @@ sudo gedit 99-usb-serial.rules
 </code>
 </pre>
 In this file, type the following statements with your device name:
-<br> ------------------------------------------------------- 
-<br> SUBSYSTEM=="tty", ATTRS{idVendor}=="wwww", ATTRS{idProduct}=="zzzz", SYMLINK+="device_name" 
-<br> ------------------------------------------------------- 
+<pre>
+  <code>
+SUBSYSTEM=="tty", ATTRS{idVendor}=="wwww", ATTRS{idProduct}=="zzzz", SYMLINK+="device_name"
+  </code>
+</pre>
 
 ### 4. Load a new rule and verify the change
 Load the new rule,
