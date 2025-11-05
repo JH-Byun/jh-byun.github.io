@@ -60,7 +60,7 @@ The main results of my research are shown below, and please refer to my [**CV**]
 **October 2025**: I gave a talk named "Aerial physical interaction strategy considering changes in dynamics" as an invited speaker at the [Workshop on Advanced Aerial Aobotics](http://www.dragon.t.u-tokyo.ac.jp/all-events/workshop-aar-2025/) held in Tokyo, Japan.
 
 **October 2025**: I gave a talk named "Safety-critical control of aerial physical interaction" as an invited speaker at [Advancements in 
-Aerial Physical Interaction (IROS 2025 Workshop)](https://sites.google.com/view/iros2025-aerialrobot-workshop/home) held in Hangzhou, the People's Republic of China.
+Aerial Physical Interaction (IROS 2025 Workshop)](https://sites.google.com/view/iros2025-aerialrobot-workshop/home) held in Hangzhou, the People's Republic of China. The related post can be found in [here](https://jh-byun.github.io/blog/IROS-workshop/).
 
 **May 2025:** I orally presented my conference proceeding on "Safety-critical control for aerial physical interaction in uncertain environment" at ICRA 2025 held in Atlanta, USA. 
 
