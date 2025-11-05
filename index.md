@@ -11,7 +11,7 @@ Currently, I am working as a PostDoc at ASRI (Automation and Systems Research In
 
 My research interests lie in the **control and planning for human-centric cooperative aerial manipulation using onboard sensors such as cameras or LiDAR**.
 
-The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2025_08_21.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_250805.pdf) for more information.
+The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2025_11_05.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_250805.pdf) for more information.
 <table>
     <tr>
       <td align="center" width="50%">
