@@ -7,4 +7,4 @@ On October 24th, I am invited as a speaker in the workshop titled "Advancements 
 My talk was about "Safety-critical aerial physical interaction".
 
 Here is the presentation file:
-<embed src="documents/2025_IROS_workshop.pdf" type="application/pdf" width="100%" height="600px" />
+<iframe src="documents/2025_IROS_workshop.pdf" width="100%" height="600px" style="border:none;"></iframe>
