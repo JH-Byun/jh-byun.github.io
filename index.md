@@ -11,7 +11,7 @@ Currently, I am working as a PostDoc at ASRI (Automation and Systems Research In
 
 My research interests lie in the **control and planning for human-centric cooperative aerial manipulation using onboard sensors such as cameras or LiDAR**.
 
-The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2025_11_25.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_251112.pdf) for more information.
+The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2026_01_21.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_251112.pdf) for more information.
 <table>
     <tr>
       <td align="center" width="50%">
@@ -57,12 +57,9 @@ The main results of my research are shown below, and please refer to my [**CV**]
 
 ## Recent Updates
 
+**November 2025**: I gave a seminar as an invited speaker at the Sookmyeong Woman's University in Seoul, Korea.
+
 **October 2025**: I gave a talk named "Aerial physical interaction strategy considering changes in dynamics" as an invited speaker at the [Workshop on Advanced Aerial Aobotics](http://www.dragon.t.u-tokyo.ac.jp/all-events/workshop-aar-2025/) held in Tokyo, Japan.
-
-**October 2025**: I gave a talk named "Safety-critical control of aerial physical interaction" as an invited speaker at [Advancements in 
-Aerial Physical Interaction (IROS 2025 Workshop)](https://sites.google.com/view/iros2025-aerialrobot-workshop/home) held in Hangzhou, the People's Republic of China. The related post can be found in [here](https://jh-byun.github.io/blog/IROS-workshop/).
-
-**May 2025:** I orally presented my conference proceeding on "Safety-critical control for aerial physical interaction in uncertain environment" at ICRA 2025 held in Atlanta, USA. 
 
 ## Always Open to Work!
 If you are interested in **fully autonomous aerial manipulation**, you can look around our publications and open projects to find an inspiration. Also, **you can also contact me** using various ways, such as e-mail, facebook, instagram, etc., to discuss the relevant topics.
