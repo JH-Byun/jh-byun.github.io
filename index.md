@@ -7,11 +7,11 @@ excerpt: "Robotics & Drone Engineer"
 ---
 
 ## Profile
-Currently, I am working as a PostDoc at ASRI (Automation and Systems Research Institute) as part of **my alternative military service as a technical research personnel** with <a href="https://larr.snu.ac.kr/" target="_blank">LARR (Laboratory for Autonomous Robotics Research)</a>, and actively seeking a **PostDoc position abroad, starting in March 2026, in the field of robotics and drone engineering.**  
+Currently, I am working as a PostDoc at ASRI (Automation and Systems Research Institute) as part of **my alternative military service as a technical research personnel** with <a href="https://larr.snu.ac.kr/" target="_blank">LARR (Laboratory for Autonomous Robotics Research)</a>.  
 
-My research interests lie in the **control and planning for human-centric cooperative aerial manipulation using onboard sensors such as cameras or LiDAR**.
+My research interests lie in the **reinforcement learning-based policy, path planner, controller, and hybrid stability analysis of aerial manipulation systemsms**.
 
-The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2026_01_21.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_251112.pdf) for more information.
+The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2026_02_13.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_251112.pdf) for more information.
 <table>
     <tr>
       <td align="center" width="50%">
@@ -56,6 +56,8 @@ The main results of my research are shown below, and please refer to my [**CV**]
 </table>
 
 ## Recent Updates
+
+**January 2026**: I was selected as the principal candidate of the [Fulbright Postdoctoral Fellowship Program](https://www.fulbright.or.kr/grant/postdoc/) and appointed as a visiting scholar in [Vijay Kumar Lab](https://www.kumarrobotics.org/) at the University of Pennsylvania in Philadelphia, USA. The visiting period is from August 1st, 2026 to July 31st, 2027.
 
 **November 2025**: I gave a seminar as an invited speaker at the Sookmyeong Woman's University in Seoul, Korea.
 
