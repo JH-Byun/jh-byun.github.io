@@ -9,7 +9,7 @@ excerpt: "Robotics & Drone Engineer"
 ## Profile
 Currently, I am working as a PostDoc at ASRI (Automation and Systems Research Institute) as part of **my alternative military service as a technical research personnel** with <a href="https://larr.snu.ac.kr/" target="_blank">LARR (Laboratory for Autonomous Robotics Research)</a>. From August 1st, 2026, I will work as a Fulbright visiting scholar in [Vijay Kumar Lab](https://www.kumarrobotics.org/).
 
-My research interests lie in the **reinforcement learning-based policy, path planner, controller, and hybrid stability analysis of aerial manipulation systemsms**.
+My research interests lie in the **reinforcement learning-based policy, path planner, controller, and hybrid stability analysis of aerial manipulation systems**.
 
 The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2026_02_13.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_251112.pdf) for more information.
 <table>
