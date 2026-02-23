@@ -11,7 +11,7 @@ Currently, I am working as a PostDoc at ASRI (Automation and Systems Research In
 
 My research interests lie in the **reinforcement learning-based policy, path planner, controller, and hybrid stability analysis of aerial manipulation systems**.
 
-The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2026_02_13.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_251112.pdf) for more information.
+The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2026_02_23.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_260223.pdf) for more information.
 <table>
     <tr>
       <td align="center" width="50%">
