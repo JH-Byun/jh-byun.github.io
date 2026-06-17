@@ -2,6 +2,11 @@
 layout: single
 author_profile: true
 
+gallery-iros2025:
+  - url: photography/iros2025.png
+    image_path: photography/iros2025.png
+    alt: "Memories in IROS 2025"
+
 gallery-icra2025:
   - url: photography/icra2025.png
     image_path: photography/icra2025.png
@@ -209,6 +214,10 @@ gallery-paris-3:
 ---
 
 {% include base_path %}
+
+## IROS 2025, Hangzhou, China
+
+{% include gallery id="gallery-iros2025" caption="" %}
 
 ## ICRA 2025, Atlanta, Georgia, USA
 
