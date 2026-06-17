@@ -2,6 +2,11 @@
 layout: single
 author_profile: true
 
+gallery-warr2025:
+  - url: photography/warr2025.png
+    image_path: photography/warr2025.png
+    alt: "Memories in Workshop on Advanced Aerial Robots (DRAGON Lab, University of Tokyo)"
+
 gallery-iros2025:
   - url: photography/iros2025.png
     image_path: photography/iros2025.png
@@ -214,6 +219,10 @@ gallery-paris-3:
 ---
 
 {% include base_path %}
+
+## Workshop on Advanced Aerial Robots (DRAGON Lab, University of Tokyo) 2025, Tokyo, Japan
+
+{% include gallery id="gallery-warr2025" caption="" %}
 
 ## IROS 2025, Hangzhou, China
 
