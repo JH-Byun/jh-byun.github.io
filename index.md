@@ -7,9 +7,9 @@ excerpt: "Robotics & Drone Engineer"
 ---
 
 ## Profile
-Currently, I am working as a PostDoc at ASRI (Automation and Systems Research Institute) with <a href="https://larr.snu.ac.kr/" target="_blank">LARR (Laboratory for Autonomous Robotics Research)</a>. From August 1st, 2026, I will work as a Fulbright visiting scholar in [Vijay Kumar Lab](https://www.kumarrobotics.org/).
+Currently, I am working as a Fulbright postdoctoral researcher at [Vijay Kumar Group](https://www.kumarrobotics.org/) in [GRASP](https://www.grasp.upenn.edu/), University of Pennsilvania.
 
-My research interests lie in the **reinforcement learning-based policy, path planner, controller, and hybrid stability analysis of aerial manipulation systems**.
+My research interests lie in the **teleoperation, control and analysis of omnidirectional aerial manipulation systems**.
 
 The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2026_06_17.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_260223.pdf) for more information.
 <table>
@@ -56,6 +56,8 @@ The main results of my research are shown below, and please refer to my [**CV**]
 </table>
 
 ## Recent Updates
+
+**July 2026**: I gave the talk named "Task-Agnostic Controller for Robust and Safe Aerial Manipulation: Hybrid Systems Approach" as an invited speaker at the DGIST (July 21st) and Hanyang University ERICA (July 22nd).
 
 **January 2026**: I was selected as the principal candidate of the [Fulbright Postdoctoral Fellowship Program](https://www.fulbright.or.kr/grant/postdoc/) and appointed as a visiting scholar in [Vijay Kumar Lab](https://www.kumarrobotics.org/) at the University of Pennsylvania in Philadelphia, USA. The visiting period is from August 1st, 2026 to July 31st, 2027.
 
