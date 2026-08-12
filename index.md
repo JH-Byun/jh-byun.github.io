@@ -37,10 +37,10 @@ The main results of my research are shown below, and please refer to my [**CV**]
       <td align="center" width="50%">
         <a href="https://jh-byun.github.io/pub/LEEICRA24/" target="_blank">
           <video style="border: none; box-shadow: none;" width="300" controls>
-            <source src="/videos/lee2024Icra_video.mp4" type="video/mp4">
+            <source src="/videos/kim2026iros_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
-          <br/> Omnidirectional Tiltrotor 
+          <br/> Teleoperation of Omnidirectional Tiltrotor 
         </a>
       </td>
       <td align="center" width="50%">
@@ -61,11 +61,7 @@ The main results of my research are shown below, and please refer to my [**CV**]
 
 **July 2026**: I gave the talk named "Task-Agnostic Controller for Robust and Safe Aerial Manipulation: Hybrid Systems Approach" as an invited speaker at the DGIST (July 21st) and Hanyang University ERICA (July 22nd).
 
-**January 2026**: I was selected as the principal candidate of the [Fulbright Postdoctoral Fellowship Program](https://www.fulbright.or.kr/grant/postdoc/) and appointed as a visiting scholar in [Vijay Kumar Lab](https://www.kumarrobotics.org/) at the University of Pennsylvania in Philadelphia, USA. The visiting period is from August 1st, 2026 to July 31st, 2027.
-
-**November 2025**: I gave a seminar as an invited speaker at the Sookmyeong Woman's University in Seoul, Korea.
-
-**October 2025**: I gave a talk named "Aerial physical interaction strategy considering changes in dynamics" as an invited speaker at the [Workshop on Advanced Aerial Aobotics](http://www.dragon.t.u-tokyo.ac.jp/all-events/workshop-aar-2025/) held in Tokyo, Japan.
+**June 2026**: My first corresponding authored paper ``Safety-critical bilateral teleoperation for omnidirectional aerial manipulation using force-sensorless haptic feedback" is accepted to IROS 2026, which will be held at Pittsburgh, PA, USA.
 
 ## Always Open to Work!
 If you are interested in **fully autonomous aerial manipulation**, you can look around our publications and open projects to find an inspiration. Also, **you can also contact me** using various ways, such as e-mail, facebook, instagram, etc., to discuss the relevant topics.
