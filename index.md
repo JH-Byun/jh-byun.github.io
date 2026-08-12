@@ -35,8 +35,8 @@ The main results of my research are shown below, and please refer to my [**CV**]
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://jh-byun.github.io/pub/LEEICRA24/" target="_blank">
-          <video style="border: none; box-shadow: none;" width="300" controls>
+        <a href="https://jh-byun.github.io/pub/KIMIROS26/" target="_blank">
+          <video style="border: none; box-shadow: none;" width="400" controls>
             <source src="/videos/kim2026iros_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
