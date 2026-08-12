@@ -57,6 +57,8 @@ The main results of my research are shown below, and please refer to my [**CV**]
 
 ## Recent Updates
 
+**August 2026**: I have joined [Vijay Kumar Lab](https://www.kumarrobotics.org/) at the University of Pennsylvania as a Fulbright visiting scholar.
+
 **July 2026**: I gave the talk named "Task-Agnostic Controller for Robust and Safe Aerial Manipulation: Hybrid Systems Approach" as an invited speaker at the DGIST (July 21st) and Hanyang University ERICA (July 22nd).
 
 **January 2026**: I was selected as the principal candidate of the [Fulbright Postdoctoral Fellowship Program](https://www.fulbright.or.kr/grant/postdoc/) and appointed as a visiting scholar in [Vijay Kumar Lab](https://www.kumarrobotics.org/) at the University of Pennsylvania in Philadelphia, USA. The visiting period is from August 1st, 2026 to July 31st, 2027.
