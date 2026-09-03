@@ -57,11 +57,11 @@ The main results of my research are shown below, and please refer to my [**CV**]
 
 ## Recent Updates
 
+**September 2026**: Our team ([Jaewoo Lee (First author)](https://scholar.google.com/citations?user=dcqUgi0AAAAJ&hl=en&oi=ao), me, and [Prof. H. Jin Kim](https://larr.snu.ac.kr)) won 1st place in the ``MathWorks Special Paper Award" at ICROS2026 in Daegu, Korea. 
+
 **August 2026**: I have joined [Vijay Kumar Lab](https://www.kumarrobotics.org/) at the University of Pennsylvania as a Fulbright visiting scholar.
 
 **July 2026**: I gave the talk named "Task-Agnostic Controller for Robust and Safe Aerial Manipulation: Hybrid Systems Approach" as an invited speaker at the DGIST (July 21st) and Hanyang University ERICA (July 22nd).
-
-**June 2026**: My first corresponding authored paper ``Safety-critical bilateral teleoperation for omnidirectional aerial manipulation using force-sensorless haptic feedback" is accepted to IROS 2026, which will be held at Pittsburgh, PA, USA.
 
 ## Always Open to Work!
 If you are interested in **fully autonomous aerial manipulation**, you can look around our publications and open projects to find an inspiration. Also, **you can also contact me** using various ways, such as e-mail, facebook, instagram, etc., to discuss the relevant topics.
