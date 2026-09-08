@@ -57,7 +57,7 @@ The main results of my research are shown below, and please refer to my [**CV**]
 
 ## Recent Updates
 
-**September 2026**: Our team ([Jaewoo Lee (First author)](https://scholar.google.com/citations?user=dcqUgi0AAAAJ&hl=en&oi=ao), me, and [Prof. H. Jin Kim](https://larr.snu.ac.kr)) won 1st place in the ``MathWorks Special Paper Award" at ICROS2026 in Daegu, Korea. 
+**September 2026**: Our team ([Jaewoo Lee (First author)](https://scholar.google.com/citations?user=dcqUgi0AAAAJ&hl=en&oi=ao), me, and [Prof. H. Jin Kim](https://larr.snu.ac.kr)) won 1st place in the "MathWorks Special Paper Award" at ICROS2026 in Daegu, Korea. 
 
 **August 2026**: I have joined [Vijay Kumar Lab](https://www.kumarrobotics.org/) at the University of Pennsylvania as a Fulbright visiting scholar.
 
