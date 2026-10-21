@@ -11,7 +11,7 @@ excerpt: "Robotics & Drone Engineer"
 <div class="home-main" markdown="1">
 
 ## Profile
-Currently, I am working as a Fulbright postdoctoral researcher at [Vijay Kumar Group](https://www.kumarrobotics.org/) in [GRASP](https://www.grasp.upenn.edu/), University of Pennsilvania.
+Currently, I am working as a Fulbright postdoctoral researcher at [Vijay Kumar Group](https://live-penn-kumar.pantheonsite.io/group/current_members/) in [GRASP](https://www.grasp.upenn.edu/), University of Pennsilvania.
 
 My research interests lie in the **teleoperation, control and analysis of omnidirectional aerial manipulation systems**.
 
