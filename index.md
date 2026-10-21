@@ -15,7 +15,7 @@ I develop **aerial robots that interact safely and precisely with the physical w
 
 I am a Fulbright postdoctoral researcher with the [Vijay Kumar Group](https://live-penn-kumar.pantheonsite.io/) at [GRASP](https://www.grasp.upenn.edu/), University of Pennsylvania.
 
-Explore my research in action below, or see my [**CV**](https://jh-byun.github.io/download/CV_2026_06_17.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_261021.pdf) for my background and research vision.
+Explore my research in action below, or see my [**CV**](https://jh-byun.github.io/download/CV_2026_10_21.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_261021.pdf) for my background and research vision.
 <table>
     <tr>
       <td align="center" width="50%">
