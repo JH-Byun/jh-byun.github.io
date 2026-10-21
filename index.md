@@ -11,7 +11,7 @@ excerpt: "Robotics & Drone Engineer"
 <div class="home-main" markdown="1">
 
 ## Profile
-Currently, I am working as a Fulbright postdoctoral researcher at [Vijay Kumar Group](https://live-penn-kumar.pantheonsite.io/group/current_members/) in [GRASP](https://www.grasp.upenn.edu/), University of Pennsilvania.
+Currently, I am working as a Fulbright postdoctoral researcher at [Vijay Kumar Group](https://live-penn-kumar.pantheonsite.io/) in [GRASP](https://www.grasp.upenn.edu/), University of Pennsilvania.
 
 My research interests lie in the **teleoperation, control and analysis of omnidirectional aerial manipulation systems**.
 
@@ -72,7 +72,7 @@ As a postdoctoral researcher, I am going to share our publications on <a href="h
 
 - **September 2026**<br> Our team ([Jaewoo Lee (First author)](https://scholar.google.com/citations?user=dcqUgi0AAAAJ&hl=en&oi=ao), me, and [Prof. H. Jin Kim](https://larr.snu.ac.kr)) won 1st place in the "MathWorks Special Paper Award" at ICROS2026 in Daegu, Korea.
 
-- **August 2026**<br> I have joined [Vijay Kumar Lab](https://live-penn-kumar.pantheonsite.io/group/current_members/) at the University of Pennsylvania as a Fulbright visiting scholar.
+- **August 2026**<br> I have joined [Vijay Kumar Lab](https://live-penn-kumar.pantheonsite.io/) at the University of Pennsylvania as a Fulbright visiting scholar.
 
 - **July 2026**<br> I gave the talk named "Task-Agnostic Controller for Robust and Safe Aerial Manipulation: Hybrid Systems Approach" as an invited speaker at the DGIST (July 21st) and Hanyang University ERICA (July 22nd).
 
