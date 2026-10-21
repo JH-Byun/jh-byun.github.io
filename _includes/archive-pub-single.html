@@ -2,15 +2,15 @@
 {% assign teaser = post.header.teaser | default: site.teaser %}
 {% assign publication_title = post.title | markdownify | strip_html | strip %}
 {% assign venue_name = site.data.publication_venues[post.conference] | default: post.conference %}
-<article class="publication-row" itemscope itemtype="https://schema.org/ScholarlyArticle">
+<article class="publication-row{% unless teaser %} publication-row--no-image{% endunless %}" itemscope itemtype="https://schema.org/ScholarlyArticle">
   <header class="publication-row__heading">
     <h2 class="publication-row__title" itemprop="headline"><a href="{{ base_path }}{{ post.url }}">{{ publication_title }}</a></h2>
     {% if post.authors %}<div class="publication-row__authors" itemprop="author">{{ post.authors }}</div>{% endif %}
+    <p class="publication-row__venue">{{ venue_name | escape }} · {{ post.date | date: '%Y' }}</p>
   </header>
   {% if teaser %}
     <a class="publication-row__image" href="{{ base_path }}{{ post.url }}" aria-label="{{ publication_title | escape }} — Project Page">
       <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="{{ publication_title | escape }}" loading="lazy">
     </a>
   {% endif %}
-  <p class="publication-row__venue">{{ venue_name | escape }} · {{ post.date | date: '%Y' }}</p>
 </article>
