@@ -1,0 +1,27 @@
+---
+layout: default
+---
+{% include base_path %}
+<main id="main" class="project" role="main">
+  <article itemscope itemtype="https://schema.org/ScholarlyArticle">
+    <header class="project__hero">
+      <p class="project__venue">{{ page.conference | escape }} <span aria-hidden="true">/</span> {{ page.date | date: "%Y" }}</p>
+      <h1 itemprop="headline">{{ page.title }}</h1>
+      <div class="project__authors" itemprop="author">{{ page.authors }}</div>
+      <nav class="project__links" aria-label="Publication resources">
+        {% for resource in page.links %}
+          {% if resource.name == 'Bibtex' %}
+            <a href="#bibtex">{{ resource.name }}</a>
+          {% elsif resource.link and resource.link != '' %}
+            <a href="{{ resource.link | escape }}">{{ resource.name }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+    </header>
+    {% if page.use_math %}{% include mathjax_support.html %}{% endif %}
+    <section class="project__content" itemprop="articleBody">
+      {{ content }}
+    </section>
+    <footer class="project__footer"><a href="{{ base_path }}/">&larr; {{ site.title }}</a></footer>
+  </article>
+</main>
