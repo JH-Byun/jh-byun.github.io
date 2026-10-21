@@ -1,52 +1,32 @@
 {% include base_path %}
-
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
+{% assign teaser = post.header.teaser | default: site.teaser %}
+{% assign publication_title = post.title | markdownify | strip_html | strip %}
+{% assign abstract_text = '' %}
+{% if post.content contains '## Abstract' %}
+  {% assign abstract_text = post.content | split: '## Abstract' | last | split: '<center>' | first | split: '## ' | first %}
+{% elsif post.content contains '**Abstract**:' %}
+  {% assign abstract_text = post.content | split: '**Abstract**:' | last | split: '<center>' | first | split: '---' | first %}
 {% endif %}
-
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
-
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="pub__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2 class="pub__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{post.conference}} {{post.date | date: "%Y"}}: {{ title }}</a>
-      {% endif %}
-    </h2>
-    {% if teaser %}
-      <div class="pub__item-teaser_leftOfText">
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-        </a>
-      </div>
-    {% endif %}
-    <p class="pub__item-links" itemprop="description">
-    {% for link in post.links %}
-      {% if link.name and link.link contains "http" %}
-        [<a href="{{ link.link }}">{{ link.name }}</a>]
-      {% elsif link.name contains "Bibtex"  %}
-        [<a href="{{base_path}}{{ post.url }}index.html#bibtex">{{ link.name }}</a>]
-      {% else %}
-        [<a href="{{base_path}}{{ link.link }}">{{ link.name }}</a>]
-      {% endif %}
-    {% endfor %}
-    </p>
-    {% if post.excerpt %}
-    <p class="pub__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 500 }}</p>
-    {% endif %}
-  </article>
-</div>
+{% assign abstract_text = abstract_text | markdownify | strip_html | normalize_whitespace | strip %}
+<article class="publication-row{% unless teaser %} publication-row--no-image{% endunless %}" itemscope itemtype="https://schema.org/ScholarlyArticle">
+  {% if teaser %}
+    <a class="publication-row__image" href="{{ base_path }}{{ post.url }}" aria-label="{{ publication_title | escape }} — Project Page">
+      <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="{{ publication_title | escape }}" loading="lazy">
+    </a>
+  {% endif %}
+  <div class="publication-row__body">
+    <p class="publication-row__venue">{{ post.conference | escape }} {{ post.date | date: '%Y' }}</p>
+    <h2 class="publication-row__title" itemprop="headline"><a href="{{ base_path }}{{ post.url }}">{{ publication_title }}</a></h2>
+    {% if post.authors %}<div class="publication-row__authors" itemprop="author">{{ post.authors }}</div>{% endif %}
+    {% if abstract_text != '' %}<p class="publication-row__abstract" itemprop="description">{{ abstract_text | escape }}</p>{% endif %}
+    <nav class="publication-row__links" aria-label="{{ publication_title | escape }} resources">
+      <a class="publication-row__project" href="{{ base_path }}{{ post.url }}">Project Page <span aria-hidden="true">&rarr;</span></a>
+      {% assign resource_names = 'Paper,Video,Code' | split: ',' %}
+      {% for resource_name in resource_names %}
+        {% assign resource = post.links | where: 'name', resource_name | first %}
+        {% assign resource_url = resource.link | default: '' | strip %}
+        {% if resource_url != '' %}<a href="{{ resource_url | escape }}">{{ resource_name }}</a>{% endif %}
+      {% endfor %}
+    </nav>
+  </div>
+</article>
