@@ -1,6 +1,6 @@
 /* Homepage only: profile content with a separate updates panel. */
 .home-page {
-  .home-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 32px; }
+  .home-grid { display: grid; grid-template-columns: minmax(0, 1fr) 250px; gap: 28px; align-items: start; }
   .home-main { min-width: 0; }
   .home-main video { max-width: 100%; height: auto; }
   .home-main table { width: 100%; table-layout: fixed; }
@@ -39,10 +39,20 @@
 
   @media (min-width: 1024px) {
     .page { width: 83.05085%; padding-left: 24px; padding-right: 0; }
-    .home-grid { grid-template-columns: minmax(0, 1fr) 250px; gap: 28px; }
   }
 
   @media (max-width: 600px) {
-    .home-updates { padding: 22px 20px; }
+    .home-grid { grid-template-columns: minmax(0, 1fr) minmax(130px, 38%); gap: 12px; }
+    .home-updates {
+      min-width: 0;
+      padding: 16px 10px;
+      overflow-wrap: anywhere;
+      h2 { font-size: 16px; }
+      ul { padding-left: 14px; }
+      li { font-size: 12px; }
+      li strong { font-size: 12px; }
+    }
+    .home-main table, .home-main tbody, .home-main tr, .home-main td { display: block; width: 100%; }
+    .home-main td { padding: 10px 0; }
   }
 }
