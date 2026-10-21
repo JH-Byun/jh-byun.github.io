@@ -9,14 +9,31 @@ layout: default
       <h1 itemprop="headline">{{ page.title }}</h1>
       <div class="project__authors" itemprop="author">{{ page.authors }}</div>
       <nav class="project__links" aria-label="Publication resources">
-        {% for resource in page.links %}
-          {% if resource.name == 'Bibtex' %}
-            <a href="#bibtex">{{ resource.name }}</a>
-          {% elsif resource.link and resource.link != '' %}
-            <a href="{{ resource.link | escape }}">{{ resource.name }}</a>
+        {% assign resource_names = 'Paper,Video,Code' | split: ',' %}
+        {% for resource_name in resource_names %}
+          {% assign resource = page.links | where: 'name', resource_name | first %}
+          {% assign resource_url = resource.link | default: '' | strip %}
+          {% case resource_name %}
+            {% when 'Paper' %}{% assign resource_icon = 'fa-file-pdf-o' %}
+            {% when 'Video' %}{% assign resource_icon = 'fa-youtube-play' %}
+            {% when 'Code' %}{% assign resource_icon = 'fa-github' %}
+          {% endcase %}
+          {% if resource_url != '' %}
+            <a class="project__resource" href="{{ resource_url | escape }}"><i class="fa {{ resource_icon }}" aria-hidden="true"></i> {{ resource_name }}</a>
+          {% else %}
+            <span class="project__resource project__resource--disabled" aria-disabled="true"><i class="fa {{ resource_icon }}" aria-hidden="true"></i> {{ resource_name }} (Coming Soon)</span>
           {% endif %}
         {% endfor %}
       </nav>
+      <div class="project__supplementary">
+        {% for resource in page.links %}
+          {% unless resource.name == 'Paper' or resource.name == 'Video' or resource.name == 'Code' or resource.name == 'Bibtex' %}
+            {% assign resource_url = resource.link | default: '' | strip %}
+            {% if resource_url != '' %}<a href="{{ resource_url | escape }}">{{ resource.name }}</a>{% endif %}
+          {% endunless %}
+        {% endfor %}
+        <a href="#bibtex">BibTeX</a>
+      </div>
     </header>
     {% if page.use_math %}{% include mathjax_support.html %}{% endif %}
     <section class="project__content" itemprop="articleBody">
