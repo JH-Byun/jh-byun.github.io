@@ -1,10 +1,14 @@
 ---
 layout: single
+classes: home-page
 author_profile: true
 header:
   overlay_image: header/linkedin_banner.png
 excerpt: "Robotics & Drone Engineer"
 ---
+
+<div class="home-grid" markdown="1">
+<div class="home-main" markdown="1">
 
 ## Profile
 Currently, I am working as a Fulbright postdoctoral researcher at [Vijay Kumar Group](https://www.kumarrobotics.org/) in [GRASP](https://www.grasp.upenn.edu/), University of Pennsilvania.
@@ -55,16 +59,22 @@ The main results of my research are shown below, and please refer to my [**CV**]
     </tr>
 </table>
 
-## Recent Updates
-
-**September 2026**: Our team ([Jaewoo Lee (First author)](https://scholar.google.com/citations?user=dcqUgi0AAAAJ&hl=en&oi=ao), me, and [Prof. H. Jin Kim](https://larr.snu.ac.kr)) won 1st place in the "MathWorks Special Paper Award" at ICROS2026 in Daegu, Korea. 
-
-**August 2026**: I have joined [Vijay Kumar Lab](https://www.kumarrobotics.org/) at the University of Pennsylvania as a Fulbright visiting scholar.
-
-**July 2026**: I gave the talk named "Task-Agnostic Controller for Robust and Safe Aerial Manipulation: Hybrid Systems Approach" as an invited speaker at the DGIST (July 21st) and Hanyang University ERICA (July 22nd).
-
 ## Always Open to Work!
 If you are interested in **fully autonomous aerial manipulation**, you can look around our publications and open projects to find an inspiration. Also, **you can also contact me** using various ways, such as e-mail, facebook, instagram, etc., to discuss the relevant topics.
 
 ## Purpose of Posting
 As a postdoctoral researcher, I am going to share our publications on <a href="https://jh-byun.github.io/_pages/pub/index.html">PUBLICATIONS</a> tab whenever our team publish a paper to conferences or journals and our team's open projects on <a href="https://jh-byun.github.io/_pages/pub/index.html">STUDY</a> tab. Not only that, my daily life will be posted on <a href="https://jh-byun.github.io/_pages/blog/index.html">BLOG</a> tab. I also want you to enjoy the photos which are uploaded on the <a href="https://jh-byun.github.io/_pages/photography/index.html">PHOTOGRAPHY</a> tab. Please feel free to visit my website!
+
+</div>
+<aside class="home-updates" aria-label="Recent updates" markdown="1">
+
+## Recent Updates
+
+- **September 2026**<br> Our team ([Jaewoo Lee (First author)](https://scholar.google.com/citations?user=dcqUgi0AAAAJ&hl=en&oi=ao), me, and [Prof. H. Jin Kim](https://larr.snu.ac.kr)) won 1st place in the "MathWorks Special Paper Award" at ICROS2026 in Daegu, Korea.
+
+- **August 2026**<br> I have joined [Vijay Kumar Lab](https://www.kumarrobotics.org/) at the University of Pennsylvania as a Fulbright visiting scholar.
+
+- **July 2026**<br> I gave the talk named "Task-Agnostic Controller for Robust and Safe Aerial Manipulation: Hybrid Systems Approach" as an invited speaker at the DGIST (July 21st) and Hanyang University ERICA (July 22nd).
+
+</aside>
+</div>
