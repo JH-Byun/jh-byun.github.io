@@ -11,11 +11,11 @@ excerpt: "Robotics & Drone Engineer"
 <div class="home-main" markdown="1">
 
 ## Profile
-Currently, I am working as a Fulbright postdoctoral researcher at [Vijay Kumar Group](https://live-penn-kumar.pantheonsite.io/) in [GRASP](https://www.grasp.upenn.edu/), University of Pennsilvania.
+I develop **aerial robots that interact safely and precisely with the physical world**, through teleoperation, control, and analysis of omnidirectional aerial manipulation systems.
 
-My research interests lie in the **teleoperation, control and analysis of omnidirectional aerial manipulation systems**.
+I am a Fulbright postdoctoral researcher with the [Vijay Kumar Group](https://live-penn-kumar.pantheonsite.io/) at [GRASP](https://www.grasp.upenn.edu/), University of Pennsylvania.
 
-The main results of my research are shown below, and please refer to my [**CV**](https://jh-byun.github.io/download/CV_2026_06_17.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_260223.pdf) for more information.
+Explore my research in action below, or see my [**CV**](https://jh-byun.github.io/download/CV_2026_06_17.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_260223.pdf) for my background and research vision.
 <table>
     <tr>
       <td align="center" width="50%">
