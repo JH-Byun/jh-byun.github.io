@@ -11,9 +11,7 @@ excerpt: "Robotics & Drone Engineer"
 <div class="home-main" markdown="1">
 
 ## Profile
-I develop **aerial robots that interact safely and precisely with the physical world**, through teleoperation, control, and analysis of omnidirectional aerial manipulation systems.
-
-I am a Fulbright postdoctoral researcher with the [Vijay Kumar Group](https://live-penn-kumar.pantheonsite.io/) at [GRASP](https://www.grasp.upenn.edu/), University of Pennsylvania.
+I am a Fulbright-funded postdoctoral researcher with the [Vijay Kumar Group](https://live-penn-kumar.pantheonsite.io/) at [GRASP](https://www.grasp.upenn.edu/), University of Pennsylvania. Before joining the Vijay Kumar Group, I was a Postdoctoral Researcher at the Automation and Systems Research Institute, Seoul National University, advised by Prof. H. Jin Kim. I received the B.S degree in Mechanical and Aerospace Engineering in 2020, and the Ph.D. degree in Aerospace Engineering in 2025, all from Seoul National University, where I was advised by Prof. H. Jin Kim. My research focuses on developing **aerial robots that interact safely and precisely with the physical world**, through robot learning, control, and analysis of omnidirectional aerial manipulation systems.
 
 Explore my research in action below, or see my [**CV**](https://jh-byun.github.io/download/CV_2026_10_21.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_261021.pdf) for my background and research vision.
 <table>
@@ -58,12 +56,6 @@ Explore my research in action below, or see my [**CV**](https://jh-byun.github.i
       </td>
     </tr>
 </table>
-
-## Always Open to Work!
-If you are interested in **fully autonomous aerial manipulation**, you can look around our publications and open projects to find an inspiration. Also, **you can also contact me** using various ways, such as e-mail and linkedin, to discuss the relevant topics.
-
-## Purpose of Posting
-As a postdoctoral researcher, I am going to share our publications on <a href="https://jh-byun.github.io/_pages/pub/index.html">PUBLICATIONS</a> tab whenever our team publish a paper to conferences or journals and our team's open projects on <a href="https://jh-byun.github.io/_pages/pub/index.html">STUDY</a> tab. Not only that, my daily life will be posted on <a href="https://jh-byun.github.io/_pages/blog/index.html">BLOG</a> tab. I also want you to enjoy the photos which are uploaded on the <a href="https://jh-byun.github.io/_pages/photography/index.html">PHOTOGRAPHY</a> tab. Please feel free to visit my website!
 
 </div>
 <aside class="home-updates" aria-label="Recent updates" markdown="1">
