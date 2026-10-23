@@ -10,7 +10,7 @@ excerpt: "Robotics & Drone Engineer"
 <div class="home-grid" markdown="1">
 <div class="home-main" markdown="1">
 
-## Welcome To My Homepage
+## Welcome To My Homepage 🏠
 Hello! I am a postdoctoral researcher with the [Vijay Kumar Group](https://live-penn-kumar.pantheonsite.io/) at [GRASP](https://www.grasp.upenn.edu/), University of Pennsylvania, partially funded by [Fulbright](https://fulbrightscholars.org/non-us-scholars/fulbright-visiting-scholar-program).
 
 Before joining the Vijay Kumar Group, I was a Postdoctoral Researcher at the Automation and Systems Research Institute, Seoul National University, advised by Prof. H. Jin Kim. I received the B.S degree in Mechanical and Aerospace Engineering in 2020, and the Ph.D. degree in Aerospace Engineering in 2025, all from Seoul National University, where I was advised by Prof. H. Jin Kim. 
