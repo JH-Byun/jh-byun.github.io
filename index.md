@@ -68,7 +68,7 @@ My research focuses on enabling reliable task execution with **aerial manipulato
 
 - **August 2026**<br> I have joined [Vijay Kumar Lab](https://live-penn-kumar.pantheonsite.io/) at the University of Pennsylvania as a Fulbright visiting scholar.
 
-- **July 2026**<br> I gave the talk named "Task-Agnostic Controller for Robust and Safe Aerial Manipulation: Hybrid Systems Approach" as an invited speaker at the DGIST (July 21st) and Hanyang University ERICA (July 22nd).
+- **July 2026**<br> I gave the talks as an invited speaker at the DGIST (July 21st) and Hanyang University ERICA (July 22nd).
 
 - **July 2026**<br> One [paper](https://jh-byun.github.io/pub/KIMIROS26/) accepted to IROS.
 
