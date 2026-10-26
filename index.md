@@ -10,12 +10,12 @@ excerpt: "Robotics & Drone Engineer"
 <div class="home-grid" markdown="1">
 <div class="home-main" markdown="1">
 
-## Welcome To My Homepage 🏠
+## 👤 Bio
 Hello! I am a postdoctoral researcher with the [Vijay Kumar Group](https://live-penn-kumar.pantheonsite.io/) at [GRASP](https://www.grasp.upenn.edu/), University of Pennsylvania, partially funded by [Fulbright](https://fulbrightscholars.org/non-us-scholars/fulbright-visiting-scholar-program).
 
-Before joining the Vijay Kumar Group, I was a Postdoctoral Researcher at the Automation and Systems Research Institute, Seoul National University, advised by Prof. H. Jin Kim. I received the B.S degree in Mechanical and Aerospace Engineering in 2020, and the Ph.D. degree in Aerospace Engineering in 2025, all from Seoul National University, where I was advised by Prof. H. Jin Kim. 
+Before joining the Vijay Kumar Group, I was a Postdoctoral Researcher at the Automation and Systems Research Institute, Seoul National University, advised by Prof. H. Jin Kim. I received the B.S degree in Mechanical and Aerospace Engineering in 2020, and the Ph.D. degree in Aerospace Engineering in 2025, all from Seoul National University, where I was advised by the same professor. 
 
-My research focuses on enabling reliable task execution with aerial manipulators that combine drones and robotic arms. My interests span platform design and fabrication, control, planning, teleoperation, and AI-driven high-level decision-making. Explore my research in action below, or see my [**CV**](https://jh-byun.github.io/download/CV_2026_10_21.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_261021.pdf) for my background and research vision.
+My research focuses on enabling reliable task execution with **aerial manipulators**. My interests span platform design and fabrication, control, planning, teleoperation, and AI-driven high-level decision-making. Explore my research in action below, or see my [**CV**](https://jh-byun.github.io/download/CV_2026_10_21.pdf) and [**research statement**](https://jh-byun.github.io/download/research_statement/Research_Statement_261021.pdf) for my background and research vision.
 <table>
     <tr>
       <td align="center" width="50%">
