@@ -64,7 +64,7 @@ My research focuses on enabling reliable task execution with **aerial manipulato
 
 ## Recent Updates
 
-- **September 2026**<br> Our team ([Jaewoo Lee (First author)](https://scholar.google.com/citations?user=dcqUgi0AAAAJ&hl=en&oi=ao), me, and [Prof. H. Jin Kim](https://larr.snu.ac.kr)) won 1st place in the "MathWorks Special Paper Award" at ICROS2026 in Daegu, Korea.
+- **September 2026**<br> Our team ([Jaewoo Lee (First author)](https://jwleesnu.github.io/), me, and [Prof. H. Jin Kim](https://larr.snu.ac.kr)) won 1st place in the "MathWorks Special Paper Award" at ICROS2026 in Daegu, Korea.
 
 - **August 2026**<br> I have joined [Vijay Kumar Lab](https://live-penn-kumar.pantheonsite.io/) at the University of Pennsylvania as a Fulbright visiting scholar.
 
