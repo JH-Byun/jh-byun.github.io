@@ -1,4 +1,7 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+{% if page.copy_code %}
+<script src="{{ base_path }}/assets/js/code-copy.js" defer></script>
+{% endif %}
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

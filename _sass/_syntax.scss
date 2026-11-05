@@ -60,6 +60,42 @@ figure.highlight {
 
 .highlight pre { width: 100%; }
 
+.has-code-copy:before {
+  display: none;
+}
+
+.copyable-code {
+  position: relative;
+
+  pre {
+    padding-top: 2.5em;
+  }
+}
+
+.code-copy-button {
+  position: absolute;
+  top: 0.25em;
+  right: 0.25em;
+  padding: 0.25em 0.5em;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: $code-background-color;
+  color: $text-color;
+  font-family: $sans-serif;
+  font-size: 0.85em;
+  line-height: 1.5;
+  cursor: pointer;
+
+  &:hover,
+  &:focus-visible {
+    background: $lighter-gray;
+  }
+}
+
+@media print {
+  .code-copy-button { display: none; }
+}
+
 /*
    Solarized Light
    http://ethanschoonover.com/solarized

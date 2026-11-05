@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "[Ubuntu 18.04] Bind a USB device under a static name"
+title: "[Ubuntu 18.04/20.04/22.04] Bind a USB device under a static name"
 use_math: true
 ---
-When you use multiple USB devices with your Ubuntu 18.04, their kernel information (e.g. /dev/ttyUSB0) might vary every time you connect and disconnect them to your PC.
+When you use multiple USB devices with your Ubuntu 18.04/20.04/22.04, their kernel information (e.g. /dev/ttyUSB0) might vary every time you connect and disconnect them to your PC.
 Therefore, if you have something to do with the kernel information of a USB device, you need to set the kernel name of the USB device.
 In this post, I will show you how to bind a USB device under a static name.
 
@@ -71,7 +71,6 @@ then check if the static name setting is done properly
 ls -l /dev/device_name
 </code>
 </pre>
-
 
 ## Reference
 https://unix.stackexchange.com/questions/66901/how-to-bind-usb-device-under-a-static-name
