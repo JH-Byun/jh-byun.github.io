@@ -57,6 +57,12 @@ In this file, type the following statements with your device name:
 SUBSYSTEM=="tty", ATTRS{idVendor}=="wwww", ATTRS{idProduct}=="zzzz", SYMLINK+="device_name"
   </code>
 </pre>
+#### (Option) If you want to maintain persistent ownership, do:
+<pre>
+  <code>
+SUBSYSTEM=="tty", ATTRS{idVendor}=="wwww", ATTRS{idProduct}=="zzzz", SYMLINK+="device_name", GROUP="dialout", MODE="0660"
+  </code>
+</pre>
 
 ### 4. Load a new rule and verify the change
 Load the new rule,
